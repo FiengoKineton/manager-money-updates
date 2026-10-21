@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 12,
+      "title": "tmp",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r12/money-manager-r12.zip",
+      "size": 2542489,
+      "sha256": "cbf76311082cc1ee781ae909e917ac5e3662ef226adb986479ca30cb37709106",
+      "published_at": "2026-10-21T15:37:26+00:00",
+      "release_id": 419739648,
+      "source_filename": "delta-98.zip"
+    },
+    {
       "seq": 11,
       "title": "cloudflare",
       "summary": "",
@@ -124,6 +135,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T15:05:38+00:00",
-  "signature": "W4Tf1Ox5yekTeI55jloDOyX4CdIxWBbsE0fMqU6inL276oOVeNA3Mriz0SJe2MjOYjxRVxopAwoPbKKkuGDPAg=="
+  "signed_at": "2026-10-21T15:37:26+00:00",
+  "signature": "Iv9kgpL1JkjpktGTTOncPW1k+UfaindVpZ8ae7zU6ueHREiNOQPGE0aZMOiwxLaqwaB1aZkcQ4LYrOI/K2gJBg=="
 }
