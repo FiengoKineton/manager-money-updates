@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 16,
+      "title": "Developer keys page, version 1.1.1",
+      "summary": "The developer console has a keys tab: GitHub, Cloudflare and Gmail credentials with added and expiry dates, how to renew them, and an update form.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r16/money-manager-r16.zip",
+      "size": 2656563,
+      "sha256": "d416fcfcbca0471093c9db5fd759365c328c086d49440a830c5cdcc13a359da9",
+      "published_at": "2026-10-21T16:29:02+00:00",
+      "release_id": 419791776,
+      "source_filename": "delta-102.zip"
+    },
+    {
       "seq": 15,
       "title": "Background pictures, version 1.1.0",
       "summary": "Pick a background picture with blur and fade, see where Investments prices come from, get new releases offered as soon as the app starts.",
@@ -168,6 +179,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T16:17:18+00:00",
-  "signature": "Kd/XDV1ue7GWcIYMqU+ZRwIYon/hPNafQNdCqNbsmLruSZnBpmzdn+F55EJ6spadw16N00k+Cvfoty98AhOBDw=="
+  "signed_at": "2026-10-21T16:29:02+00:00",
+  "signature": "4uPVnst2zIqwYGnPD0JBnypol0ylKNM7CsKIVqx/ZmQQe3gm0CZaQj7W44UYdnjdTkOCx6cwytadluHip6q2Cg=="
 }
