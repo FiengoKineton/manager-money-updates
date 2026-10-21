@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 15,
+      "title": "Background pictures, version 1.1.0",
+      "summary": "Pick a background picture with blur and fade, see where Investments prices come from, get new releases offered as soon as the app starts.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r15/money-manager-r15.zip",
+      "size": 2646665,
+      "sha256": "fc425b88b3e4b2f91b015cf3b6ac47a22e4fc8b82e49f9174ab9655251947a54",
+      "published_at": "2026-10-21T16:17:18+00:00",
+      "release_id": 419780112,
+      "source_filename": "delta-101.zip"
+    },
+    {
       "seq": 14,
       "title": "tmp",
       "summary": "",
@@ -157,6 +168,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T16:03:04+00:00",
-  "signature": "MlJXTq6wUBTZKtOxur+Ih+EoAtat3M01nDurh+jh6FRX1JOk9WqLfpFv++q0Xdc9GwO8v+85nmc1o8NwnPX3Ag=="
+  "signed_at": "2026-10-21T16:17:18+00:00",
+  "signature": "Kd/XDV1ue7GWcIYMqU+ZRwIYon/hPNafQNdCqNbsmLruSZnBpmzdn+F55EJ6spadw16N00k+Cvfoty98AhOBDw=="
 }
