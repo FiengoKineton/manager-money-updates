@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 9,
+      "title": "tmp",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r9/money-manager-r9.zip",
+      "size": 2521490,
+      "sha256": "9d328f06544ec9b2c3cc94169780def6116ea5062123201cfec2daa4cd33db6c",
+      "published_at": "2026-10-21T14:49:26+00:00",
+      "release_id": 419681511,
+      "source_filename": "delta-94.zip"
+    },
+    {
       "seq": 8,
       "title": "tmp",
       "summary": "",
@@ -91,6 +102,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T14:48:51+00:00",
-  "signature": "OeDYEuQ1MFZ3AINC2FN+CESawhxJGlmkMHtOA0lGacxet0kcI0Al7ddWXvaneASggiC2ITFrqaCiNHV9nFt7Dw=="
+  "signed_at": "2026-10-21T14:49:26+00:00",
+  "signature": "aOQk3c2+S644hHKkJzw9EVBbomPIJBoWkd8oO7IkbwkQclTqvbVuYikw82poAM+AyiG/T0lhqANHb949p97iCQ=="
 }
