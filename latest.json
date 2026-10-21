@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 8,
+      "title": "tmp",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r8/money-manager-r8.zip",
+      "size": 2521081,
+      "sha256": "588085f38fdf726dc4b4b46ff16ec6c2ce39b39326a2849bf63b2679b7d13b6a",
+      "published_at": "2026-10-21T14:48:51+00:00",
+      "release_id": 419680937,
+      "source_filename": "delta-93.zip"
+    },
+    {
       "seq": 7,
       "title": "UI phone adjustments",
       "summary": "",
@@ -80,6 +91,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T11:20:00+00:00",
-  "signature": "QeWtEZ0cboU1PoT2fCDoypn5QBbSTozhNVurV37UnYY2MG/KYnVDBE4mAF64x2B1Yggi8gJu6j5sePJjzVn6Cg=="
+  "signed_at": "2026-10-21T14:48:51+00:00",
+  "signature": "OeDYEuQ1MFZ3AINC2FN+CESawhxJGlmkMHtOA0lGacxet0kcI0Al7ddWXvaneASggiC2ITFrqaCiNHV9nFt7Dw=="
 }
