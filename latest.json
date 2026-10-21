@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 2,
+      "title": "DeveloperTool Update",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r2/money-manager-r2.zip",
+      "size": 2504621,
+      "sha256": "346eb7215ec54cc9b3b721c25f480b4d82ca47f79e8c62fa4be30f693aafe9d6",
+      "published_at": "2026-10-21T09:58:26+00:00",
+      "release_id": 419398251,
+      "source_filename": "delta-87.zip"
+    },
+    {
       "seq": 1,
       "title": "Online Update",
       "summary": "",
@@ -14,6 +25,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T09:43:55+00:00",
-  "signature": "L+GwgDPRLLioufPE0H3MTvcMbL3pRjiR1OkXbWMl536MRQTFfdNL5RrIXnT6QOHxKqFrIDEPAhVKQBZM4OeRBQ=="
+  "signed_at": "2026-10-21T09:58:26+00:00",
+  "signature": "2y0qXa6aCHgS8ONjIpq2Jg/f9IN95JgOYpNOJ6VkufbcN9AcQD5yWAZvOYMMSZRh9TaoXOCrgi39ERu+QwmLDA=="
 }
