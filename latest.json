@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 10,
+      "title": "cloudflare",
+      "summary": "revoking access",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r10/money-manager-r10.zip",
+      "size": 2533661,
+      "sha256": "aca9d0677aee1047c42f99266ab67306e52a6f1db172a74252451fc4ef1641f5",
+      "published_at": "2026-10-21T14:59:38+00:00",
+      "release_id": 419692288,
+      "source_filename": "delta-95.zip"
+    },
+    {
       "seq": 9,
       "title": "tmp",
       "summary": "",
@@ -102,6 +113,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T14:49:26+00:00",
-  "signature": "aOQk3c2+S644hHKkJzw9EVBbomPIJBoWkd8oO7IkbwkQclTqvbVuYikw82poAM+AyiG/T0lhqANHb949p97iCQ=="
+  "signed_at": "2026-10-21T14:59:38+00:00",
+  "signature": "pQu4taXGEZnFfbYwn7REHyKnrYiKcP/sty2dR7DN8PwRC0yRImLOeioP6O8+OouOI11E92DC1907+5mFS6mTDg=="
 }
