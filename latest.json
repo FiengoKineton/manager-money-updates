@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 17,
+      "title": "Background preview with Apply, version 1.1.2",
+      "summary": "Background pictures are previewed and saved only with Apply; a clearer picture chooser; the placeholder pictures are removed.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r17/money-manager-r17.zip",
+      "size": 2594772,
+      "sha256": "f51502c621e36abf31569aafb03e9cda0a1bd9f0d7ba04b29e3004afed2a5f2e",
+      "published_at": "2026-10-21T16:37:50+00:00",
+      "release_id": 419800288,
+      "source_filename": "delta-103.zip"
+    },
+    {
       "seq": 16,
       "title": "Developer keys page, version 1.1.1",
       "summary": "The developer console has a keys tab: GitHub, Cloudflare and Gmail credentials with added and expiry dates, how to renew them, and an update form.",
@@ -179,6 +190,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T16:29:02+00:00",
-  "signature": "4uPVnst2zIqwYGnPD0JBnypol0ylKNM7CsKIVqx/ZmQQe3gm0CZaQj7W44UYdnjdTkOCx6cwytadluHip6q2Cg=="
+  "signed_at": "2026-10-21T16:37:50+00:00",
+  "signature": "Dwd7VB2PPMrzZgi+ll5xy9w0Zp8xalCVqODJpfGmDj6CCX1Hlv3y394E6uQu7Dae7Ou7H3WNNBNpzfs1MyzGDw=="
 }
