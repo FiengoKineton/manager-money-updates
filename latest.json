@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 6,
+      "title": "restrictions",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r6/money-manager-r6.zip",
+      "size": 2520537,
+      "sha256": "ea65e81f8e03ffb0057adedfc9da34cddd03410675fe14774b38ac4fca04f557",
+      "published_at": "2026-10-21T11:07:29+00:00",
+      "release_id": 419457865,
+      "source_filename": "delta-91.zip"
+    },
+    {
       "seq": 5,
       "title": "send fix",
       "summary": "",
@@ -58,6 +69,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T10:50:11+00:00",
-  "signature": "HAqqag9/gb2tSDjZ2fiVJZ0XGWkmFlE8FDMhLKR/WNyfgxGMfuLJ6kQen5yavtAlQYkP/sigguVFhlKEjlu8Ag=="
+  "signed_at": "2026-10-21T11:07:29+00:00",
+  "signature": "+ImoBEfnRl1hVlfZwrVyrE0QhlwNRw31Vmrq8DDaz+MDcW3l91aFNLMbFsn3LKr0KCtMli4wXaDTNwa8FwUCCw=="
 }
