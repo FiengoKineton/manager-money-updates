@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 5,
+      "title": "send fix",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r5/money-manager-r5.zip",
+      "size": 2520349,
+      "sha256": "e7a2975c63355ba959b6d92e4a117300bebb90d0b249b68fa81a0514e9b89823",
+      "published_at": "2026-10-21T10:50:11+00:00",
+      "release_id": 419443059,
+      "source_filename": "delta-90.zip"
+    },
+    {
       "seq": 4,
       "title": "mailing sys",
       "summary": "",
@@ -47,6 +58,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T10:36:21+00:00",
-  "signature": "dW/yz/iITwgRDwbtjcEM7PcPZhjBYBz2DhkAZ2QizxOTf/3lxjDhf0rx855Ovzfk5ZPPEB/K5HUs+B6XU7m3AA=="
+  "signed_at": "2026-10-21T10:50:11+00:00",
+  "signature": "HAqqag9/gb2tSDjZ2fiVJZ0XGWkmFlE8FDMhLKR/WNyfgxGMfuLJ6kQen5yavtAlQYkP/sigguVFhlKEjlu8Ag=="
 }
