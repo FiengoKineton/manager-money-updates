@@ -1,0 +1,19 @@
+{
+  "releases": [
+    {
+      "seq": 1,
+      "title": "Online Update",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r1/money-manager-r1.zip",
+      "size": 2499773,
+      "sha256": "e0d5770e59cc1470a4c0ed6ad348dafd51a37da4142c46c0874f0581cfae6b42",
+      "published_at": "2026-10-21T09:43:55+00:00",
+      "release_id": 419385472,
+      "source_filename": "delta-86.zip"
+    }
+  ],
+  "format": 1,
+  "repo": "FiengoKineton/manager-money-updates",
+  "signed_at": "2026-10-21T09:43:55+00:00",
+  "signature": "L+GwgDPRLLioufPE0H3MTvcMbL3pRjiR1OkXbWMl536MRQTFfdNL5RrIXnT6QOHxKqFrIDEPAhVKQBZM4OeRBQ=="
+}
