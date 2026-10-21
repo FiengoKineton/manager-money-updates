@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 3,
+      "title": "small fix",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r3/money-manager-r3.zip",
+      "size": 2505973,
+      "sha256": "cc1726f675f866f26047441424e0d80d9736db0b6b894bff762768a95af1bbb3",
+      "published_at": "2026-10-21T10:04:44+00:00",
+      "release_id": 419403796,
+      "source_filename": "delta-88.zip"
+    },
+    {
       "seq": 2,
       "title": "DeveloperTool Update",
       "summary": "",
@@ -25,6 +36,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T09:58:26+00:00",
-  "signature": "2y0qXa6aCHgS8ONjIpq2Jg/f9IN95JgOYpNOJ6VkufbcN9AcQD5yWAZvOYMMSZRh9TaoXOCrgi39ERu+QwmLDA=="
+  "signed_at": "2026-10-21T10:04:44+00:00",
+  "signature": "3sS/aCWGPih+VKEIIx3LPYw6Ef3K7Ne40LZMfZ/3407TGAT4C1HP7O/HPc4Z/Ki3d1+gAr/fGMzxbWA1F96+AA=="
 }
