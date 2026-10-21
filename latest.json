@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 7,
+      "title": "UI phone adjustments",
+      "summary": "",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r7/money-manager-r7.zip",
+      "size": 2521129,
+      "sha256": "a21edd9fdabc3ac438700e5ba3213f47293538a0ad19a5f103597682bf2c5143",
+      "published_at": "2026-10-21T11:20:00+00:00",
+      "release_id": 419468508,
+      "source_filename": "delta-92.zip"
+    },
+    {
       "seq": 6,
       "title": "restrictions",
       "summary": "",
@@ -69,6 +80,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T11:07:29+00:00",
-  "signature": "+ImoBEfnRl1hVlfZwrVyrE0QhlwNRw31Vmrq8DDaz+MDcW3l91aFNLMbFsn3LKr0KCtMli4wXaDTNwa8FwUCCw=="
+  "signed_at": "2026-10-21T11:20:00+00:00",
+  "signature": "QeWtEZ0cboU1PoT2fCDoypn5QBbSTozhNVurV37UnYY2MG/KYnVDBE4mAF64x2B1Yggi8gJu6j5sePJjzVn6Cg=="
 }
