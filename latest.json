@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "seq": 18,
+      "title": "Undo, sign-in in Italian, beta releases, version 1.3.0",
+      "summary": "Deleting no longer asks “Are you sure?”: you get 10 seconds to Undo. The sign-in pages speak your language. New releases can go to the developer’s devices first.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r18/money-manager-r18.zip",
+      "size": 2659120,
+      "sha256": "35c8f295ba38a57e20e542cadfcbdd43089b784170be5631e28b113bb98f2622",
+      "published_at": "2026-10-22T08:53:22+00:00",
+      "release_id": 420495647,
+      "source_filename": "delta-107.zip"
+    },
+    {
       "seq": 17,
       "title": "Background preview with Apply, version 1.1.2",
       "summary": "Background pictures are previewed and saved only with Apply; a clearer picture chooser; the placeholder pictures are removed.",
@@ -190,6 +201,6 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-21T16:37:50+00:00",
-  "signature": "Dwd7VB2PPMrzZgi+ll5xy9w0Zp8xalCVqODJpfGmDj6CCX1Hlv3y394E6uQu7Dae7Ou7H3WNNBNpzfs1MyzGDw=="
+  "signed_at": "2026-10-22T08:53:22+00:00",
+  "signature": "cii+iEn2wImg5umJ/JaXANOflKdgpcN7/HM1ph2lCfwGn+GBe/i4LgV4XN5qKHqtJYkJw3/CBS9Lbmy/bt2JAw=="
 }
