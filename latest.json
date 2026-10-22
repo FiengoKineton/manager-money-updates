@@ -201,6 +201,19 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-22T08:53:22+00:00",
-  "signature": "cii+iEn2wImg5umJ/JaXANOflKdgpcN7/HM1ph2lCfwGn+GBe/i4LgV4XN5qKHqtJYkJw3/CBS9Lbmy/bt2JAw=="
+  "signed_at": "2026-10-22T09:45:20+00:00",
+  "beta": [
+    {
+      "seq": 19,
+      "title": "Sync between devices (beta), version 1.4.0",
+      "summary": "Use the same account on more than one computer: your data is encrypted with your password before it leaves the computer, saved online after changes and kept in versions you can go back to.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r19/money-manager-r19.zip",
+      "size": 2699024,
+      "sha256": "1d25c279dab9774fe1406872613e36f0bbe05f081076d0187d8ddbabd0c26c3e",
+      "published_at": "2026-10-22T09:45:20+00:00",
+      "release_id": 420545141,
+      "source_filename": "delta-108.zip"
+    }
+  ],
+  "signature": "zqZmTAPrDuoI6zpXoj8q/1mw9p8nhFoIododyOrDHDPPe5oEP7Bc7AfZF0armWxmmmU8WCX5seCumR23nBf8BQ=="
 }
