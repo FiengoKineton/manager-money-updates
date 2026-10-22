@@ -201,8 +201,19 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-22T09:45:20+00:00",
+  "signed_at": "2026-10-22T09:50:56+00:00",
   "beta": [
+    {
+      "seq": 20,
+      "title": "Developer console: tidier users page, version 1.4.1",
+      "summary": "Only the developer sees a difference: the invite form is on top, invited people scroll inside their box and revoked people are folded away.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r20/money-manager-r20.zip",
+      "size": 2699376,
+      "sha256": "0834cecea3a3523995b5ef458fbf4c945dc9382fff9fad50562910bef6bc966f",
+      "published_at": "2026-10-22T09:50:56+00:00",
+      "release_id": 420550246,
+      "source_filename": "delta-109.zip"
+    },
     {
       "seq": 19,
       "title": "Sync between devices (beta), version 1.4.0",
@@ -215,5 +226,5 @@
       "source_filename": "delta-108.zip"
     }
   ],
-  "signature": "zqZmTAPrDuoI6zpXoj8q/1mw9p8nhFoIododyOrDHDPPe5oEP7Bc7AfZF0armWxmmmU8WCX5seCumR23nBf8BQ=="
+  "signature": "mQHkKfddTmWkKac5YWBWQlgT01kQDrLd4Y9h1U+Xvc8g0xihD4U8YMrcooyjqiSDdcb5BtkkH7hHBx8f49L0Bg=="
 }
