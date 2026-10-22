@@ -201,8 +201,19 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-22T09:50:56+00:00",
+  "signed_at": "2026-10-22T10:08:16+00:00",
   "beta": [
+    {
+      "seq": 21,
+      "title": "Documentation page, version 1.4.2",
+      "summary": "The sign-in page has a Documentation link: choose English or Italian and the user guide or the technical reference. The documents themselves arrive with a next update.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r21/money-manager-r21.zip",
+      "size": 2703525,
+      "sha256": "68c75b5d5ace58cc812425bc71a21c0a4401a497225416ed50bbb92fa209e0c6",
+      "published_at": "2026-10-22T10:08:16+00:00",
+      "release_id": 420565969,
+      "source_filename": "delta-110.zip"
+    },
     {
       "seq": 20,
       "title": "Developer console: tidier users page, version 1.4.1",
@@ -226,5 +237,5 @@
       "source_filename": "delta-108.zip"
     }
   ],
-  "signature": "mQHkKfddTmWkKac5YWBWQlgT01kQDrLd4Y9h1U+Xvc8g0xihD4U8YMrcooyjqiSDdcb5BtkkH7hHBx8f49L0Bg=="
+  "signature": "DRKJQeKmM0nMhnNL6/VCh6tDBOYej7w0W7ExaE5vM9QeCxHPQxHmfU2y3aQXY0bWvkchd2wnkfwV95MK5HPpDg=="
 }
