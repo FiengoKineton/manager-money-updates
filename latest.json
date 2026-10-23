@@ -201,8 +201,19 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-22T10:08:16+00:00",
+  "signed_at": "2026-10-23T13:36:19+00:00",
   "beta": [
+    {
+      "seq": 22,
+      "title": "Releases built from the developer’s folder, version 1.4.3",
+      "summary": "Only the developer sees a difference: releases are now built and published straight from the app folder, always complete, and only from changes saved in git.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r22/money-manager-r22.zip",
+      "size": 1622179,
+      "sha256": "d43ef489e520bed3486d3aa4fdd6dee526c80d1a2b8b9b5677d819955a86db01",
+      "published_at": "2026-10-23T13:36:19+00:00",
+      "release_id": 421884385,
+      "source_filename": "delta-111.zip"
+    },
     {
       "seq": 21,
       "title": "Documentation page, version 1.4.2",
@@ -237,5 +248,5 @@
       "source_filename": "delta-108.zip"
     }
   ],
-  "signature": "DRKJQeKmM0nMhnNL6/VCh6tDBOYej7w0W7ExaE5vM9QeCxHPQxHmfU2y3aQXY0bWvkchd2wnkfwV95MK5HPpDg=="
+  "signature": "6mGpL2AEtu/Yqcg5g/yLenlIwyidl3XtzMyNVgieMKHzrRQRxfLwjFTVHWU4QcXQdZJLglwg1NUthXXG5YnqBA=="
 }
