@@ -201,8 +201,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-23T13:36:19+00:00",
+  "signed_at": "2026-10-23T14:57:49+00:00",
   "beta": [
+    {
+      "seq": 23,
+      "title": "Check and repair app files, version 1.5.2",
+      "summary": "Settings › Update app can now check that every app file is exactly as published and put back any missing or damaged one. Updates no longer flash terminal windows, and the Update page opens at once.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/money-manager-r23.zip",
+      "size": 8335844,
+      "sha256": "53d8fe609898955ef9dcea904589433a35c9a16f0e883cc39b0ff0466c9c411e",
+      "published_at": "2026-10-23T14:57:45+00:00",
+      "release_id": 421973001,
+      "source_filename": "release-1.5.2.zip",
+      "version": "1.5.2",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/manifest-r23.json",
+        "sha256": "4a2b89deab6196b42f64a58405fa263d97daa86a3dcbf5737840157193836e45",
+        "size": 89412,
+        "files": 714,
+        "pack_size": 10762467
+      }
+    },
     {
       "seq": 22,
       "title": "Releases built from the developer’s folder, version 1.4.3",
@@ -248,5 +267,5 @@
       "source_filename": "delta-108.zip"
     }
   ],
-  "signature": "6mGpL2AEtu/Yqcg5g/yLenlIwyidl3XtzMyNVgieMKHzrRQRxfLwjFTVHWU4QcXQdZJLglwg1NUthXXG5YnqBA=="
+  "signature": "jeZO16teCUbtgT/XdA16VF8kFPT+Qec7nEQIVTcxKLRKjVrlO+QGkn47OvfHsGF/+PJCkjXsOcZNQM4xD72lCA=="
 }
