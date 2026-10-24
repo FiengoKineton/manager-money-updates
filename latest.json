@@ -1,6 +1,74 @@
 {
   "releases": [
     {
+      "seq": 23,
+      "title": "Check and repair app files, version 1.5.2",
+      "summary": "Settings › Update app can now check that every app file is exactly as published and put back any missing or damaged one. Updates no longer flash terminal windows, and the Update page opens at once.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/money-manager-r23.zip",
+      "size": 8335844,
+      "sha256": "53d8fe609898955ef9dcea904589433a35c9a16f0e883cc39b0ff0466c9c411e",
+      "published_at": "2026-10-23T14:57:45+00:00",
+      "release_id": 421973001,
+      "source_filename": "release-1.5.2.zip",
+      "version": "1.5.2",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/manifest-r23.json",
+        "sha256": "4a2b89deab6196b42f64a58405fa263d97daa86a3dcbf5737840157193836e45",
+        "size": 89412,
+        "files": 714,
+        "pack_size": 10762467
+      },
+      "promoted_at": "2026-10-24T14:27:59+00:00"
+    },
+    {
+      "seq": 22,
+      "title": "Releases built from the developer’s folder, version 1.4.3",
+      "summary": "Only the developer sees a difference: releases are now built and published straight from the app folder, always complete, and only from changes saved in git.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r22/money-manager-r22.zip",
+      "size": 1622179,
+      "sha256": "d43ef489e520bed3486d3aa4fdd6dee526c80d1a2b8b9b5677d819955a86db01",
+      "published_at": "2026-10-23T13:36:19+00:00",
+      "release_id": 421884385,
+      "source_filename": "delta-111.zip",
+      "promoted_at": "2026-10-24T14:27:59+00:00"
+    },
+    {
+      "seq": 21,
+      "title": "Documentation page, version 1.4.2",
+      "summary": "The sign-in page has a Documentation link: choose English or Italian and the user guide or the technical reference. The documents themselves arrive with a next update.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r21/money-manager-r21.zip",
+      "size": 2703525,
+      "sha256": "68c75b5d5ace58cc812425bc71a21c0a4401a497225416ed50bbb92fa209e0c6",
+      "published_at": "2026-10-22T10:08:16+00:00",
+      "release_id": 420565969,
+      "source_filename": "delta-110.zip",
+      "promoted_at": "2026-10-24T14:27:59+00:00"
+    },
+    {
+      "seq": 20,
+      "title": "Developer console: tidier users page, version 1.4.1",
+      "summary": "Only the developer sees a difference: the invite form is on top, invited people scroll inside their box and revoked people are folded away.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r20/money-manager-r20.zip",
+      "size": 2699376,
+      "sha256": "0834cecea3a3523995b5ef458fbf4c945dc9382fff9fad50562910bef6bc966f",
+      "published_at": "2026-10-22T09:50:56+00:00",
+      "release_id": 420550246,
+      "source_filename": "delta-109.zip",
+      "promoted_at": "2026-10-24T14:27:59+00:00"
+    },
+    {
+      "seq": 19,
+      "title": "Sync between devices (beta), version 1.4.0",
+      "summary": "Use the same account on more than one computer: your data is encrypted with your password before it leaves the computer, saved online after changes and kept in versions you can go back to.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r19/money-manager-r19.zip",
+      "size": 2699024,
+      "sha256": "1d25c279dab9774fe1406872613e36f0bbe05f081076d0187d8ddbabd0c26c3e",
+      "published_at": "2026-10-22T09:45:20+00:00",
+      "release_id": 420545141,
+      "source_filename": "delta-108.zip",
+      "promoted_at": "2026-10-24T14:27:59+00:00"
+    },
+    {
       "seq": 18,
       "title": "Undo, sign-in in Italian, beta releases, version 1.3.0",
       "summary": "Deleting no longer asks “Are you sure?”: you get 10 seconds to Undo. The sign-in pages speak your language. New releases can go to the developer’s devices first.",
@@ -201,71 +269,7 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-23T14:57:49+00:00",
-  "beta": [
-    {
-      "seq": 23,
-      "title": "Check and repair app files, version 1.5.2",
-      "summary": "Settings › Update app can now check that every app file is exactly as published and put back any missing or damaged one. Updates no longer flash terminal windows, and the Update page opens at once.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/money-manager-r23.zip",
-      "size": 8335844,
-      "sha256": "53d8fe609898955ef9dcea904589433a35c9a16f0e883cc39b0ff0466c9c411e",
-      "published_at": "2026-10-23T14:57:45+00:00",
-      "release_id": 421973001,
-      "source_filename": "release-1.5.2.zip",
-      "version": "1.5.2",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/manifest-r23.json",
-        "sha256": "4a2b89deab6196b42f64a58405fa263d97daa86a3dcbf5737840157193836e45",
-        "size": 89412,
-        "files": 714,
-        "pack_size": 10762467
-      }
-    },
-    {
-      "seq": 22,
-      "title": "Releases built from the developer’s folder, version 1.4.3",
-      "summary": "Only the developer sees a difference: releases are now built and published straight from the app folder, always complete, and only from changes saved in git.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r22/money-manager-r22.zip",
-      "size": 1622179,
-      "sha256": "d43ef489e520bed3486d3aa4fdd6dee526c80d1a2b8b9b5677d819955a86db01",
-      "published_at": "2026-10-23T13:36:19+00:00",
-      "release_id": 421884385,
-      "source_filename": "delta-111.zip"
-    },
-    {
-      "seq": 21,
-      "title": "Documentation page, version 1.4.2",
-      "summary": "The sign-in page has a Documentation link: choose English or Italian and the user guide or the technical reference. The documents themselves arrive with a next update.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r21/money-manager-r21.zip",
-      "size": 2703525,
-      "sha256": "68c75b5d5ace58cc812425bc71a21c0a4401a497225416ed50bbb92fa209e0c6",
-      "published_at": "2026-10-22T10:08:16+00:00",
-      "release_id": 420565969,
-      "source_filename": "delta-110.zip"
-    },
-    {
-      "seq": 20,
-      "title": "Developer console: tidier users page, version 1.4.1",
-      "summary": "Only the developer sees a difference: the invite form is on top, invited people scroll inside their box and revoked people are folded away.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r20/money-manager-r20.zip",
-      "size": 2699376,
-      "sha256": "0834cecea3a3523995b5ef458fbf4c945dc9382fff9fad50562910bef6bc966f",
-      "published_at": "2026-10-22T09:50:56+00:00",
-      "release_id": 420550246,
-      "source_filename": "delta-109.zip"
-    },
-    {
-      "seq": 19,
-      "title": "Sync between devices (beta), version 1.4.0",
-      "summary": "Use the same account on more than one computer: your data is encrypted with your password before it leaves the computer, saved online after changes and kept in versions you can go back to.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r19/money-manager-r19.zip",
-      "size": 2699024,
-      "sha256": "1d25c279dab9774fe1406872613e36f0bbe05f081076d0187d8ddbabd0c26c3e",
-      "published_at": "2026-10-22T09:45:20+00:00",
-      "release_id": 420545141,
-      "source_filename": "delta-108.zip"
-    }
-  ],
-  "signature": "jeZO16teCUbtgT/XdA16VF8kFPT+Qec7nEQIVTcxKLRKjVrlO+QGkn47OvfHsGF/+PJCkjXsOcZNQM4xD72lCA=="
+  "signed_at": "2026-10-24T14:27:59+00:00",
+  "beta": [],
+  "signature": "t+ENZq5HwYK/HKzvcj6r1P2OgV6IZS40AIfiXFgCozvfifF6w2kH8JRfs4r82XMmfSrAOy3Uf6Po/CkkCO4RAw=="
 }
