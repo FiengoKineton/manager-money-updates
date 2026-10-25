@@ -269,7 +269,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-24T14:27:59+00:00",
-  "beta": [],
-  "signature": "t+ENZq5HwYK/HKzvcj6r1P2OgV6IZS40AIfiXFgCozvfifF6w2kH8JRfs4r82XMmfSrAOy3Uf6Po/CkkCO4RAw=="
+  "signed_at": "2026-10-25T14:49:51+00:00",
+  "beta": [
+    {
+      "seq": 24,
+      "title": "Linked transactions, subscription reminders and receipt QR codes, version 1.5.7",
+      "summary": "Link two transactions that belong together. After saving a subscription the app offers to remind you to cancel it. Receipts get a real barcode and a QR with the details. Categories get fitting icons, accounts their bank's colours.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r24/money-manager-r24.zip",
+      "size": 8461313,
+      "sha256": "97be668f5f05e155570d32e7e82f717535e28b85fc63084bfc88f6732ca3ff47",
+      "published_at": "2026-10-25T14:49:48+00:00",
+      "release_id": 423465031,
+      "source_filename": "release-1.5.7.zip",
+      "version": "1.5.7",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r24/manifest-r24.json",
+        "sha256": "7c3ad74e7177aed40562e95e1e5cc38990dbed54e1168c228572bcde856a2bde",
+        "size": 92717,
+        "files": 727,
+        "pack_size": 569509
+      }
+    }
+  ],
+  "signature": "Gh1ukkOo6LIPaHPmLw3lbwOVevRBvU/StfbSQhz1KlbaH73XhcsgabuVaofrI+feExZ95iPds41EjclHrG5ODw=="
 }
