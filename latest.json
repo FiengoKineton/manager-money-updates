@@ -269,8 +269,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-25T14:49:51+00:00",
+  "signed_at": "2026-10-26T11:47:18+00:00",
   "beta": [
+    {
+      "seq": 25,
+      "title": "Not booked yet for automatic payments, refunds from someone else, version 1.5.9",
+      "summary": "Automatic and linked payments can wait to be booked, and a refund can come from someone other than the shop. Also in this package: changes and files for payables and receivables, the fuller project page and everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r25/money-manager-r25.zip",
+      "size": 8537606,
+      "sha256": "443615a423fa48bf11969e9245afe72c0fe3947bb3b4804386b6b5b27e712c9b",
+      "published_at": "2026-10-26T11:47:15+00:00",
+      "release_id": 424183735,
+      "source_filename": "release-1.5.9.zip",
+      "version": "1.5.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r25/manifest-r25.json",
+        "sha256": "bb6c1c2fe92734d32c761ed51760953baadba2c81aecdf29cc11711994deb36d",
+        "size": 97364,
+        "files": 736,
+        "pack_size": 537918
+      }
+    },
     {
       "seq": 24,
       "title": "Linked transactions, subscription reminders and receipt QR codes, version 1.5.7",
@@ -291,5 +310,5 @@
       }
     }
   ],
-  "signature": "Gh1ukkOo6LIPaHPmLw3lbwOVevRBvU/StfbSQhz1KlbaH73XhcsgabuVaofrI+feExZ95iPds41EjclHrG5ODw=="
+  "signature": "qfVgYlVPOsxPU2JNKJ48/EILcNn+TeAGjLEhsMJqINSECCZtGWjUfXTZ+tT3SbHEC/v502AhPI4G9hkciauqCg=="
 }
