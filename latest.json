@@ -269,8 +269,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-26T11:47:18+00:00",
+  "signed_at": "2026-10-26T14:59:16+00:00",
   "beta": [
+    {
+      "seq": 26,
+      "title": "Undo for 30 seconds, simple version for everyone, version 1.6.1",
+      "summary": "Every change to your data can be undone for 30 seconds from a bar at the top. From the next login every account starts on the simple version unless the full one was chosen (Settings › Go to the full app). File pickers match the app; the top-bar net uses your name for All Conti. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r26/money-manager-r26.zip",
+      "size": 8555851,
+      "sha256": "e3e765d0298ce75dc083bc736424b535e990bfb49320aa72011640fac5ef5403",
+      "published_at": "2026-10-26T14:59:11+00:00",
+      "release_id": 424389615,
+      "source_filename": "release-1.6.1.zip",
+      "version": "1.6.1",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r26/manifest-r26.json",
+        "sha256": "c07d9b13969f0542db121ca550f311d115652e63de382894bc40fc1d77cca27f",
+        "size": 98893,
+        "files": 738,
+        "pack_size": 334171
+      }
+    },
     {
       "seq": 25,
       "title": "Not booked yet for automatic payments, refunds from someone else, version 1.5.9",
@@ -310,5 +329,5 @@
       }
     }
   ],
-  "signature": "qfVgYlVPOsxPU2JNKJ48/EILcNn+TeAGjLEhsMJqINSECCZtGWjUfXTZ+tT3SbHEC/v502AhPI4G9hkciauqCg=="
+  "signature": "3TIWa2j5TFCwf1+dqTuKJcVf9kOR0xBNrdMKysz+YaE/k1gV+DvVimO7emLSGCobAD/i0oO0G/QA3VJROQRQCA=="
 }
