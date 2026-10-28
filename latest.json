@@ -1,6 +1,26 @@
 {
   "releases": [
     {
+      "seq": 27,
+      "title": "Salary per year, 13th and 14th payslips of their own, version 1.6.4",
+      "summary": "Type a salary as its RAL and choose 12, 13 or 14 payslips: each payslip is RAL / payslips, and the 13th (December) and 14th (July) are payslips of their own, in a month you can move, with or without the linked debts. Taxes on the Italian estimate add up to the year. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r27/money-manager-r27.zip",
+      "size": 8573903,
+      "sha256": "4cdb773159a62ecddca731784ad09a65627e8d62109302d9d33276049f99609b",
+      "published_at": "2026-10-28T13:31:39+00:00",
+      "release_id": 426707677,
+      "source_filename": "release-1.6.4.zip",
+      "version": "1.6.4",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r27/manifest-r27.json",
+        "sha256": "df159e43b120e14e02f31330b8bc5f975ba07ffab881ebcb0bfae30a00220bb6",
+        "size": 102079,
+        "files": 740,
+        "pack_size": 372948
+      },
+      "promoted_at": "2026-10-28T13:31:57+00:00"
+    },
+    {
       "seq": 26,
       "title": "Undo for 30 seconds, simple version for everyone, version 1.6.1",
       "summary": "Every change to your data can be undone for 30 seconds from a bar at the top. From the next login every account starts on the simple version unless the full one was chosen (Settings › Go to the full app). File pickers match the app; the top-bar net uses your name for All Conti. Also in this package: everything since 1.5.2.",
@@ -303,42 +323,11 @@
       "published_at": "2026-10-21T10:04:44+00:00",
       "release_id": 419403796,
       "source_filename": "delta-88.zip"
-    },
-    {
-      "seq": 2,
-      "title": "DeveloperTool Update",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r2/money-manager-r2.zip",
-      "size": 2504621,
-      "sha256": "346eb7215ec54cc9b3b721c25f480b4d82ca47f79e8c62fa4be30f693aafe9d6",
-      "published_at": "2026-10-21T09:58:26+00:00",
-      "release_id": 419398251,
-      "source_filename": "delta-87.zip"
     }
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-28T13:31:43+00:00",
-  "beta": [
-    {
-      "seq": 27,
-      "title": "Salary per year, 13th and 14th payslips of their own, version 1.6.4",
-      "summary": "Type a salary as its RAL and choose 12, 13 or 14 payslips: each payslip is RAL / payslips, and the 13th (December) and 14th (July) are payslips of their own, in a month you can move, with or without the linked debts. Taxes on the Italian estimate add up to the year. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r27/money-manager-r27.zip",
-      "size": 8573903,
-      "sha256": "4cdb773159a62ecddca731784ad09a65627e8d62109302d9d33276049f99609b",
-      "published_at": "2026-10-28T13:31:39+00:00",
-      "release_id": 426707677,
-      "source_filename": "release-1.6.4.zip",
-      "version": "1.6.4",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r27/manifest-r27.json",
-        "sha256": "df159e43b120e14e02f31330b8bc5f975ba07ffab881ebcb0bfae30a00220bb6",
-        "size": 102079,
-        "files": 740,
-        "pack_size": 372948
-      }
-    }
-  ],
-  "signature": "wMujgqVBdAP0V1RX3OMvRwz+hLSMabA63sJl3SGdtwlEjCt7ineUsDYxeHig2UJvKFNfRPVVCfws+K7XWXUmDQ=="
+  "signed_at": "2026-10-28T13:31:57+00:00",
+  "beta": [],
+  "signature": "WN2dcJGo4hUVg2sFzXchDkGNjksD/WcQGsBVsXCrkRiHSaKGshVtRnolIedQBT3iwRYMPVgf+W2TuN+9NX7uAQ=="
 }
