@@ -327,7 +327,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-28T13:31:57+00:00",
-  "beta": [],
-  "signature": "WN2dcJGo4hUVg2sFzXchDkGNjksD/WcQGsBVsXCrkRiHSaKGshVtRnolIedQBT3iwRYMPVgf+W2TuN+9NX7uAQ=="
+  "signed_at": "2026-10-28T19:21:55+00:00",
+  "beta": [
+    {
+      "seq": 28,
+      "title": "IVA kept on receipts, shared bills and Bollette, version 1.6.9",
+      "summary": "When the IVA button adds IVA to an amount, the rate is now saved with it and shown: on the expense receipt, on the shared bill and on Bollette payments. The IVA button no longer covers the big amount on New expense. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r28/money-manager-r28.zip",
+      "size": 8609921,
+      "sha256": "48a7811ae1758200bd468f0ecd72afda214d9345c8b54eb2c8d47ee2171fe261",
+      "published_at": "2026-10-28T19:21:52+00:00",
+      "release_id": 427094282,
+      "source_filename": "release-1.6.9.zip",
+      "version": "1.6.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r28/manifest-r28.json",
+        "sha256": "17adbb2f0a3eacd91677e0561d2b473371ab927ec37b71905cb9e71679726270",
+        "size": 105714,
+        "files": 744,
+        "pack_size": 436692
+      }
+    }
+  ],
+  "signature": "Wt/6xTocNHHoVjGetLbbA+KXtiu0ryVA01tzcWX80xc7Tu9UZzcKa/ktx7XHZUayJcDrDq0OFfPZxLSrE+xzAg=="
 }
