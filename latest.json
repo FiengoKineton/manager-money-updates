@@ -1,6 +1,26 @@
 {
   "releases": [
     {
+      "seq": 29,
+      "title": "Salary advances, currency in quick add and new categories everywhere, version 1.7.0",
+      "summary": "Ask for an advance (anticipo) on a salary from the Recurring page: the money arrives today and the payslip brings only what is left, or pay it back in instalments as a linked debt. In the quick New dialog the amount stays next to the currency sign, and the sign picks one of your saved currencies. \"+ New category\" is now at the top of every category list. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r29/money-manager-r29.zip",
+      "size": 8634180,
+      "sha256": "ccacb4de503c7602b04bd33d68c68e7821f9cbdbce8c1fa80f0e11a6d961de82",
+      "published_at": "2026-10-30T09:57:03+00:00",
+      "release_id": 428872652,
+      "source_filename": "release-1.7.0.zip",
+      "version": "1.7.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r29/manifest-r29.json",
+        "sha256": "0a580c721517b79d485829617fff0044ee7ad5ba26899d81250d98c0d3b5dee4",
+        "size": 107832,
+        "files": 746,
+        "pack_size": 427316
+      },
+      "promoted_at": "2026-10-30T09:59:06+00:00"
+    },
+    {
       "seq": 28,
       "title": "IVA kept on receipts, shared bills and Bollette, version 1.6.9",
       "summary": "When the IVA button adds IVA to an amount, the rate is now saved with it and shown: on the expense receipt, on the shared bill and on Bollette payments. The IVA button no longer covers the big amount on New expense. Also in this package: everything since 1.5.2.",
@@ -321,42 +341,11 @@
       "published_at": "2026-10-21T10:50:11+00:00",
       "release_id": 419443059,
       "source_filename": "delta-90.zip"
-    },
-    {
-      "seq": 4,
-      "title": "mailing sys",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r4/money-manager-r4.zip",
-      "size": 2519816,
-      "sha256": "f0a6b3661ff56ca83987e978a5752c0f6ee80cd32c4014bfdbaf3d9dc03d12fa",
-      "published_at": "2026-10-21T10:36:21+00:00",
-      "release_id": 419431168,
-      "source_filename": "delta-89.zip"
     }
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-30T09:57:07+00:00",
-  "beta": [
-    {
-      "seq": 29,
-      "title": "Salary advances, currency in quick add and new categories everywhere, version 1.7.0",
-      "summary": "Ask for an advance (anticipo) on a salary from the Recurring page: the money arrives today and the payslip brings only what is left, or pay it back in instalments as a linked debt. In the quick New dialog the amount stays next to the currency sign, and the sign picks one of your saved currencies. \"+ New category\" is now at the top of every category list. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r29/money-manager-r29.zip",
-      "size": 8634180,
-      "sha256": "ccacb4de503c7602b04bd33d68c68e7821f9cbdbce8c1fa80f0e11a6d961de82",
-      "published_at": "2026-10-30T09:57:03+00:00",
-      "release_id": 428872652,
-      "source_filename": "release-1.7.0.zip",
-      "version": "1.7.0",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r29/manifest-r29.json",
-        "sha256": "0a580c721517b79d485829617fff0044ee7ad5ba26899d81250d98c0d3b5dee4",
-        "size": 107832,
-        "files": 746,
-        "pack_size": 427316
-      }
-    }
-  ],
-  "signature": "qmZ0M8RWtayb2VgSNDc3KdbybcRTrOCdbBB0dkBi2fvTZygo13zq0H6X3q08Uv5A1kKdRfgnuSKul4rmEK4nDg=="
+  "signed_at": "2026-10-30T09:59:06+00:00",
+  "beta": [],
+  "signature": "lV7Yw6Z4qk/LFLG/8+oWVnKnXa/D8X99eRDa4g4iJ8p5kop8A7SuPkWupR0vdzYIZ6Q/I1dAEvICD9FoURB6AA=="
 }
