@@ -336,7 +336,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-28T19:22:06+00:00",
-  "beta": [],
-  "signature": "PCgVl+fwk4fhhsn1FBVQkyaJoW67jtcRQLf3vfaNzdX71TRZiSVXKsjR3COXtSZQgPJzZ5s8k33WtlEHkg2bDQ=="
+  "signed_at": "2026-10-30T09:57:07+00:00",
+  "beta": [
+    {
+      "seq": 29,
+      "title": "Salary advances, currency in quick add and new categories everywhere, version 1.7.0",
+      "summary": "Ask for an advance (anticipo) on a salary from the Recurring page: the money arrives today and the payslip brings only what is left, or pay it back in instalments as a linked debt. In the quick New dialog the amount stays next to the currency sign, and the sign picks one of your saved currencies. \"+ New category\" is now at the top of every category list. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r29/money-manager-r29.zip",
+      "size": 8634180,
+      "sha256": "ccacb4de503c7602b04bd33d68c68e7821f9cbdbce8c1fa80f0e11a6d961de82",
+      "published_at": "2026-10-30T09:57:03+00:00",
+      "release_id": 428872652,
+      "source_filename": "release-1.7.0.zip",
+      "version": "1.7.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r29/manifest-r29.json",
+        "sha256": "0a580c721517b79d485829617fff0044ee7ad5ba26899d81250d98c0d3b5dee4",
+        "size": 107832,
+        "files": 746,
+        "pack_size": 427316
+      }
+    }
+  ],
+  "signature": "qmZ0M8RWtayb2VgSNDc3KdbybcRTrOCdbBB0dkBi2fvTZygo13zq0H6X3q08Uv5A1kKdRfgnuSKul4rmEK4nDg=="
 }
