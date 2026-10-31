@@ -1,6 +1,25 @@
 {
   "releases": [
     {
+      "seq": 30,
+      "title": "Export transactions to PDF, IVA button visible everywhere, version 1.7.1",
+      "summary": "Transactions → Export makes a PDF of a period (this year by default) for all or some accounts: every log month by month, each account's balance at the start and end of every month, and a summary with charts. The IVA button no longer leaves an empty gap in amounts in pop-ups and in the side panel. A narrow top bar now keeps the two balances and hides Investments. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r30/money-manager-r30.zip",
+      "size": 8645836,
+      "sha256": "5fb101a8946f5f51bf36aff34ccafbc88a57f1472b397ec1dcb8709ff4020af0",
+      "published_at": "2026-10-31T14:56:04+00:00",
+      "release_id": 430000254,
+      "source_filename": "release-1.7.1.zip",
+      "version": "1.7.1",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r30/manifest-r30.json",
+        "sha256": "3113387e4018311db39e72dd775073917fcf2a54eb3947e12394c3329591b994",
+        "size": 109425,
+        "files": 747,
+        "pack_size": 300391
+      }
+    },
+    {
       "seq": 29,
       "title": "Salary advances, currency in quick add and new categories everywhere, version 1.7.0",
       "summary": "Ask for an advance (anticipo) on a salary from the Recurring page: the money arrives today and the payslip brings only what is left, or pay it back in instalments as a linked debt. In the quick New dialog the amount stays next to the currency sign, and the sign picks one of your saved currencies. \"+ New category\" is now at the top of every category list. Also in this package: everything since 1.5.2.",
@@ -330,22 +349,11 @@
       "published_at": "2026-10-21T11:07:29+00:00",
       "release_id": 419457865,
       "source_filename": "delta-91.zip"
-    },
-    {
-      "seq": 5,
-      "title": "send fix",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r5/money-manager-r5.zip",
-      "size": 2520349,
-      "sha256": "e7a2975c63355ba959b6d92e4a117300bebb90d0b249b68fa81a0514e9b89823",
-      "published_at": "2026-10-21T10:50:11+00:00",
-      "release_id": 419443059,
-      "source_filename": "delta-90.zip"
     }
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-30T09:59:06+00:00",
+  "signed_at": "2026-10-31T14:56:07+00:00",
   "beta": [],
-  "signature": "lV7Yw6Z4qk/LFLG/8+oWVnKnXa/D8X99eRDa4g4iJ8p5kop8A7SuPkWupR0vdzYIZ6Q/I1dAEvICD9FoURB6AA=="
+  "signature": "MNo88CD9hshLKOUht1BenIRrHx4jT4TPhm66S9Rs9j0np24sl2hrtg+pC4u/L2Tjnw27neihNOYjMEPOuqjrCA=="
 }
