@@ -353,7 +353,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-10-31T14:56:07+00:00",
-  "beta": [],
-  "signature": "MNo88CD9hshLKOUht1BenIRrHx4jT4TPhm66S9Rs9j0np24sl2hrtg+pC4u/L2Tjnw27neihNOYjMEPOuqjrCA=="
+  "signed_at": "2026-11-02T09:37:24+00:00",
+  "beta": [
+    {
+      "seq": 31,
+      "title": "Salary page with company logo and benefits, version 1.7.2",
+      "summary": "Salaries: a bigger salary card with the company's logo and website, a Benefits box for what the company pays for you, and To check next to Insights and Raises. The salary's logo shows on its transactions. The top-bar button next to Home opens the accounts (or the account picked), the renamed All Conti shows its name in the top bar, and the New recurring rule pop-up no longer has an empty half. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r31/money-manager-r31.zip",
+      "size": 8660608,
+      "sha256": "eead73cb335b4508db673c10712b3dddb914cdaeb7b6825ec8c938fa95d6e90e",
+      "published_at": "2026-11-02T09:37:18+00:00",
+      "release_id": 431278178,
+      "source_filename": "release-1.7.2.zip",
+      "version": "1.7.2",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r31/manifest-r31.json",
+        "sha256": "e6294ebea8bca2629bda5c48a6441e6a9d744faab9538b6d8973c5305cec6bb0",
+        "size": 111228,
+        "files": 748,
+        "pack_size": 376822
+      }
+    }
+  ],
+  "signature": "6KFoC+GDVsSNWboFe7svIW5YLbUyOVnVso7sb+VvMSXP2tT4UcZgwpfb4FZFDFGfGxkECgBFwoN4G2+Xbf6aAQ=="
 }
