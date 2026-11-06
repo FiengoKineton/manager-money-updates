@@ -353,8 +353,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-04T10:49:52+00:00",
+  "signed_at": "2026-11-06T11:08:01+00:00",
   "beta": [
+    {
+      "seq": 33,
+      "title": "Editing a bill keeps today's payment, salary advances shown everywhere, version 1.7.8",
+      "summary": "Saving a bill or salary deleted its open payment in Pending without making it again, so a bill due today vanished and Next jumped to the following one. Fixed, and a payment lost this way comes back once. A salary advance now lowers the coming payslip everywhere: Pending, the forecasts, Transactions and Salaries. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r33/money-manager-r33.zip",
+      "size": 8707786,
+      "sha256": "5bd823c023ebba910afe883f3bd114ea454821df6bc8259eea53ddb8521d85b1",
+      "published_at": "2026-11-06T11:07:56+00:00",
+      "release_id": 436402347,
+      "source_filename": "release-1.7.8.zip",
+      "version": "1.7.8",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r33/manifest-r33.json",
+        "sha256": "f6d280ac30b662303415b26bb2f3b4307b288292ddb76f39971f505af025782a",
+        "size": 116703,
+        "files": 752,
+        "pack_size": 347020
+      }
+    },
     {
       "seq": 32,
       "title": "Parent support rules keep their past months, version 1.7.6",
@@ -394,5 +413,5 @@
       }
     }
   ],
-  "signature": "Phk0V3nZUjm5V7oklDIcg1eig+TfPsrO/1cg9eJTzOqMFgaVPrFWljcPYZGfyjQb79P9rHJYxmxHfd+684vjBw=="
+  "signature": "hFFIaIvTxoGuUGs26jOx6hAkoHscodKNYIZrPYbjYc3l8kENKDNVCcOHjped91HiNBpytVXdqXZMf6BNs3EkAQ=="
 }
