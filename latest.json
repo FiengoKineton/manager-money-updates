@@ -1,6 +1,66 @@
 {
   "releases": [
     {
+      "seq": 33,
+      "title": "Editing a bill keeps today's payment, salary advances shown everywhere, version 1.7.8",
+      "summary": "Saving a bill or salary deleted its open payment in Pending without making it again, so a bill due today vanished and Next jumped to the following one. Fixed, and a payment lost this way comes back once. A salary advance now lowers the coming payslip everywhere: Pending, the forecasts, Transactions and Salaries. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r33/money-manager-r33.zip",
+      "size": 8707786,
+      "sha256": "5bd823c023ebba910afe883f3bd114ea454821df6bc8259eea53ddb8521d85b1",
+      "published_at": "2026-11-06T11:07:56+00:00",
+      "release_id": 436402347,
+      "source_filename": "release-1.7.8.zip",
+      "version": "1.7.8",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r33/manifest-r33.json",
+        "sha256": "f6d280ac30b662303415b26bb2f3b4307b288292ddb76f39971f505af025782a",
+        "size": 116703,
+        "files": 752,
+        "pack_size": 347020
+      },
+      "promoted_at": "2026-11-10T12:49:07+00:00"
+    },
+    {
+      "seq": 32,
+      "title": "Parent support rules keep their past months, version 1.7.6",
+      "summary": "Changing the amount of a monthly Parent support rule, pausing it or deleting it no longer rewrites or removes the months already gone: they are saved as entries with the amount they had, and only the coming months follow the change. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r32/money-manager-r32.zip",
+      "size": 8700197,
+      "sha256": "6bdbdd50d2b0e652dd7f0c8778fddbea74001a71139af60615ece468e27dd086",
+      "published_at": "2026-11-04T10:49:45+00:00",
+      "release_id": 433798557,
+      "source_filename": "release-1.7.6.zip",
+      "version": "1.7.6",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r32/manifest-r32.json",
+        "sha256": "d4216f4eb17fdd5ff6c0efbd0b494b1e3df981dbd4c710031feec1f6e13717e6",
+        "size": 114730,
+        "files": 752,
+        "pack_size": 367337
+      },
+      "promoted_at": "2026-11-10T12:49:07+00:00"
+    },
+    {
+      "seq": 31,
+      "title": "Salary page with company logo and benefits, version 1.7.2",
+      "summary": "Salaries: a bigger salary card with the company's logo and website, a Benefits box for what the company pays for you, and To check next to Insights and Raises. The salary's logo shows on its transactions. The top-bar button next to Home opens the accounts (or the account picked), the renamed All Conti shows its name in the top bar, and the New recurring rule pop-up no longer has an empty half. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r31/money-manager-r31.zip",
+      "size": 8660608,
+      "sha256": "eead73cb335b4508db673c10712b3dddb914cdaeb7b6825ec8c938fa95d6e90e",
+      "published_at": "2026-11-02T09:37:18+00:00",
+      "release_id": 431278178,
+      "source_filename": "release-1.7.2.zip",
+      "version": "1.7.2",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r31/manifest-r31.json",
+        "sha256": "e6294ebea8bca2629bda5c48a6441e6a9d744faab9538b6d8973c5305cec6bb0",
+        "size": 111228,
+        "files": 748,
+        "pack_size": 376822
+      },
+      "promoted_at": "2026-11-10T12:49:07+00:00"
+    },
+    {
       "seq": 30,
       "title": "Export transactions to PDF, IVA button visible everywhere, version 1.7.1",
       "summary": "Transactions → Export makes a PDF of a period (this year by default) for all or some accounts: every log month by month, each account's balance at the start and end of every month, and a summary with charts. The IVA button no longer leaves an empty gap in amounts in pop-ups and in the side panel. A narrow top bar now keeps the two balances and hides Investments. Also in this package: everything since 1.5.2.",
@@ -316,102 +376,11 @@
       "published_at": "2026-10-21T14:49:26+00:00",
       "release_id": 419681511,
       "source_filename": "delta-94.zip"
-    },
-    {
-      "seq": 8,
-      "title": "tmp",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r8/money-manager-r8.zip",
-      "size": 2521081,
-      "sha256": "588085f38fdf726dc4b4b46ff16ec6c2ce39b39326a2849bf63b2679b7d13b6a",
-      "published_at": "2026-10-21T14:48:51+00:00",
-      "release_id": 419680937,
-      "source_filename": "delta-93.zip"
-    },
-    {
-      "seq": 7,
-      "title": "UI phone adjustments",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r7/money-manager-r7.zip",
-      "size": 2521129,
-      "sha256": "a21edd9fdabc3ac438700e5ba3213f47293538a0ad19a5f103597682bf2c5143",
-      "published_at": "2026-10-21T11:20:00+00:00",
-      "release_id": 419468508,
-      "source_filename": "delta-92.zip"
-    },
-    {
-      "seq": 6,
-      "title": "restrictions",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r6/money-manager-r6.zip",
-      "size": 2520537,
-      "sha256": "ea65e81f8e03ffb0057adedfc9da34cddd03410675fe14774b38ac4fca04f557",
-      "published_at": "2026-10-21T11:07:29+00:00",
-      "release_id": 419457865,
-      "source_filename": "delta-91.zip"
     }
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-06T11:08:01+00:00",
-  "beta": [
-    {
-      "seq": 33,
-      "title": "Editing a bill keeps today's payment, salary advances shown everywhere, version 1.7.8",
-      "summary": "Saving a bill or salary deleted its open payment in Pending without making it again, so a bill due today vanished and Next jumped to the following one. Fixed, and a payment lost this way comes back once. A salary advance now lowers the coming payslip everywhere: Pending, the forecasts, Transactions and Salaries. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r33/money-manager-r33.zip",
-      "size": 8707786,
-      "sha256": "5bd823c023ebba910afe883f3bd114ea454821df6bc8259eea53ddb8521d85b1",
-      "published_at": "2026-11-06T11:07:56+00:00",
-      "release_id": 436402347,
-      "source_filename": "release-1.7.8.zip",
-      "version": "1.7.8",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r33/manifest-r33.json",
-        "sha256": "f6d280ac30b662303415b26bb2f3b4307b288292ddb76f39971f505af025782a",
-        "size": 116703,
-        "files": 752,
-        "pack_size": 347020
-      }
-    },
-    {
-      "seq": 32,
-      "title": "Parent support rules keep their past months, version 1.7.6",
-      "summary": "Changing the amount of a monthly Parent support rule, pausing it or deleting it no longer rewrites or removes the months already gone: they are saved as entries with the amount they had, and only the coming months follow the change. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r32/money-manager-r32.zip",
-      "size": 8700197,
-      "sha256": "6bdbdd50d2b0e652dd7f0c8778fddbea74001a71139af60615ece468e27dd086",
-      "published_at": "2026-11-04T10:49:45+00:00",
-      "release_id": 433798557,
-      "source_filename": "release-1.7.6.zip",
-      "version": "1.7.6",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r32/manifest-r32.json",
-        "sha256": "d4216f4eb17fdd5ff6c0efbd0b494b1e3df981dbd4c710031feec1f6e13717e6",
-        "size": 114730,
-        "files": 752,
-        "pack_size": 367337
-      }
-    },
-    {
-      "seq": 31,
-      "title": "Salary page with company logo and benefits, version 1.7.2",
-      "summary": "Salaries: a bigger salary card with the company's logo and website, a Benefits box for what the company pays for you, and To check next to Insights and Raises. The salary's logo shows on its transactions. The top-bar button next to Home opens the accounts (or the account picked), the renamed All Conti shows its name in the top bar, and the New recurring rule pop-up no longer has an empty half. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r31/money-manager-r31.zip",
-      "size": 8660608,
-      "sha256": "eead73cb335b4508db673c10712b3dddb914cdaeb7b6825ec8c938fa95d6e90e",
-      "published_at": "2026-11-02T09:37:18+00:00",
-      "release_id": 431278178,
-      "source_filename": "release-1.7.2.zip",
-      "version": "1.7.2",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r31/manifest-r31.json",
-        "sha256": "e6294ebea8bca2629bda5c48a6441e6a9d744faab9538b6d8973c5305cec6bb0",
-        "size": 111228,
-        "files": 748,
-        "pack_size": 376822
-      }
-    }
-  ],
-  "signature": "hFFIaIvTxoGuUGs26jOx6hAkoHscodKNYIZrPYbjYc3l8kENKDNVCcOHjped91HiNBpytVXdqXZMf6BNs3EkAQ=="
+  "signed_at": "2026-11-10T12:49:07+00:00",
+  "beta": [],
+  "signature": "YC0QWMdvibtaySP2ceIn8KgRCKjETM+oggX+muUDHoag/SQ6Yk+7mh6Ol+QD3XTk5YGiEE+J3Oac/V/8FKIjDw=="
 }
