@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-11T10:58:29+00:00",
+  "signed_at": "2026-11-11T15:39:44+00:00",
   "beta": [
+    {
+      "seq": 35,
+      "title": "Fuel cards, version 1.8.0",
+      "summary": "Fuel cards (carta carburante, buoni benzina) now have their own page: a balance in euros topped up by hand, each top-up with an expiry, spent to the cent only on fuel. A card can sit on an account or be only a salary benefit. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r35/money-manager-r35.zip",
+      "size": 8732665,
+      "sha256": "8155fb92dc050c52473af9e4cab0a6de644de55ec6ac7f9bc05f69916904453b",
+      "published_at": "2026-11-11T15:39:40+00:00",
+      "release_id": 441884725,
+      "source_filename": "release-1.8.0.zip",
+      "version": "1.8.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r35/manifest-r35.json",
+        "sha256": "e970224eefd6bfd07aa6fd85de5ed8d3e8a13fb803acc9813bffa0dbc04f85b6",
+        "size": 118156,
+        "files": 754,
+        "pack_size": 383953
+      }
+    },
     {
       "seq": 34,
       "title": "Refunds to any account or as a buono sconto, version 1.7.9",
@@ -402,5 +421,5 @@
       }
     }
   ],
-  "signature": "jEf0NUvDW8VG/i4Pvad4VTvPqVH3hMG2tmfLGa+K/cNmKlVya0Unxuq+HzoOHwnf2MNhDI4tF42rkcJg6Ps5BA=="
+  "signature": "HskREadX/jzfZS8VFFRSiwiTAK6CWI9j7rUPyqYjSfLW+mKY/0mkKd+nZK/RJGJYOk4SjaMuy1OYnx3qqlk3Bw=="
 }
