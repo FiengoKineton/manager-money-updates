@@ -380,7 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-10T12:49:07+00:00",
-  "beta": [],
-  "signature": "YC0QWMdvibtaySP2ceIn8KgRCKjETM+oggX+muUDHoag/SQ6Yk+7mh6Ol+QD3XTk5YGiEE+J3Oac/V/8FKIjDw=="
+  "signed_at": "2026-11-11T10:58:29+00:00",
+  "beta": [
+    {
+      "seq": 34,
+      "title": "Refunds to any account or as a buono sconto, version 1.7.9",
+      "summary": "A refund can now come back to any of your accounts, or as a buono sconto to spend later: the amount goes on the shop's voucher (or a new one), with no money moving now. Unspent vouchers count in net worth. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r34/money-manager-r34.zip",
+      "size": 8716419,
+      "sha256": "5b5fb9d7de493dc8210d114b2b7d1e59c4d457db874bcbd9ffa2114d1226d8e3",
+      "published_at": "2026-11-11T10:58:24+00:00",
+      "release_id": 441571108,
+      "source_filename": "release-1.7.9.zip",
+      "version": "1.7.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r34/manifest-r34.json",
+        "sha256": "79d1cd4122a1fe910935d7fb58f81c2c85ae04ed143ad2ef8cfe711708a808f0",
+        "size": 117190,
+        "files": 752,
+        "pack_size": 267378
+      }
+    }
+  ],
+  "signature": "jEf0NUvDW8VG/i4Pvad4VTvPqVH3hMG2tmfLGa+K/cNmKlVya0Unxuq+HzoOHwnf2MNhDI4tF42rkcJg6Ps5BA=="
 }
