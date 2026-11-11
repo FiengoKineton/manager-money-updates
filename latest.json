@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-11T15:39:44+00:00",
+  "signed_at": "2026-11-11T21:02:10+00:00",
   "beta": [
+    {
+      "seq": 36,
+      "title": "Sell the house: profit or loss, version 1.8.2",
+      "summary": "Each mortgage has a Sell tab: write a price and a date and see the loan still owed then, what you take home, and the profit or loss against everything you put in. Mark it as sold to close the loan. Debts can also be paid from any account. Also in this package: fuel cards and everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r36/money-manager-r36.zip",
+      "size": 8748524,
+      "sha256": "dc0959f0389ee3294e33e5f18023588c62d1c0373091e9b577afe31a8755f37a",
+      "published_at": "2026-11-11T21:02:07+00:00",
+      "release_id": 442186712,
+      "source_filename": "release-1.8.2.zip",
+      "version": "1.8.2",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r36/manifest-r36.json",
+        "sha256": "ef5a938d5c5c1085dc7e36eea9112d8c85ebb8ab83066d2436e38c6a8ee45081",
+        "size": 119157,
+        "files": 754,
+        "pack_size": 322940
+      }
+    },
     {
       "seq": 35,
       "title": "Fuel cards, version 1.8.0",
@@ -421,5 +440,5 @@
       }
     }
   ],
-  "signature": "HskREadX/jzfZS8VFFRSiwiTAK6CWI9j7rUPyqYjSfLW+mKY/0mkKd+nZK/RJGJYOk4SjaMuy1OYnx3qqlk3Bw=="
+  "signature": "k7Tfsl+HUtlY17EQsN5bVCUSxgFeMRCrxroutrHfXwqjcBEeimDRzkiI0w2jouQkC9hpL9iRQPyAe2OlbtZjAg=="
 }
