@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-11T21:02:10+00:00",
+  "signed_at": "2026-11-12T13:01:47+00:00",
   "beta": [
+    {
+      "seq": 37,
+      "title": "Tidier investment readings, version 1.8.6",
+      "summary": "The Readings list on the Investments page is one clean line per reading, with the edit and remove buttons side by side. Also in this package: not-booked rules, part of a debt to pocket, selling the house, fuel cards and everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r37/money-manager-r37.zip",
+      "size": 8759808,
+      "sha256": "e5a54b9d794b82223cac69993c40278b1276df1e8b0328762823feaa9891f73a",
+      "published_at": "2026-11-12T13:01:42+00:00",
+      "release_id": 442954682,
+      "source_filename": "release-1.8.6.zip",
+      "version": "1.8.6",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r37/manifest-r37.json",
+        "sha256": "680eb527c38bcb8c738aeef9974997ec7913325e1b7198e7325ac980120f95fe",
+        "size": 122249,
+        "files": 755,
+        "pack_size": 429541
+      }
+    },
     {
       "seq": 36,
       "title": "Sell the house: profit or loss, version 1.8.2",
@@ -440,5 +459,5 @@
       }
     }
   ],
-  "signature": "k7Tfsl+HUtlY17EQsN5bVCUSxgFeMRCrxroutrHfXwqjcBEeimDRzkiI0w2jouQkC9hpL9iRQPyAe2OlbtZjAg=="
+  "signature": "EKefjlyQ14/6mSZ5rOaztCZQoHAdiWusvBpRvwyMy/mrF6SXbDYxx455IdbbB6KkwzW6+KeCg3/kPlQ6NkqVBQ=="
 }
