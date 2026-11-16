@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-12T13:01:47+00:00",
+  "signed_at": "2026-11-16T11:00:24+00:00",
   "beta": [
+    {
+      "seq": 38,
+      "title": "One payment per card statement, version 1.8.7",
+      "summary": "A credit card statement was paid twice when it came due: once by the card settlement and once by an older per-account statement row. Now each statement is paid once, the extra payment already logged is removed, and the payment amount can be edited (a card fee on top). Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r38/money-manager-r38.zip",
+      "size": 8763741,
+      "sha256": "fb5fe931dfe8b70b4075cbfbf35207a99b37f2d035e5046d7b3390286f3cdd60",
+      "published_at": "2026-11-16T11:00:20+00:00",
+      "release_id": 446921373,
+      "source_filename": "release-1.8.7.zip",
+      "version": "1.8.7",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r38/manifest-r38.json",
+        "sha256": "baf4898d1997fce3c072ece677f745a4b8314662fd9b2771b359b572b88e41a3",
+        "size": 123424,
+        "files": 755,
+        "pack_size": 219515
+      }
+    },
     {
       "seq": 37,
       "title": "Tidier investment readings, version 1.8.6",
@@ -459,5 +478,5 @@
       }
     }
   ],
-  "signature": "EKefjlyQ14/6mSZ5rOaztCZQoHAdiWusvBpRvwyMy/mrF6SXbDYxx455IdbbB6KkwzW6+KeCg3/kPlQ6NkqVBQ=="
+  "signature": "BelAaHXjREpKO7E+zRrK42CbsyxuYUhvUZRfj627rWtwsS+AgWa6iViC+wZ1CcND7zEW6Hq05tXL+3wlWWmGAQ=="
 }
