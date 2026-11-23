@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-23T11:22:37+00:00",
+  "signed_at": "2026-11-23T14:37:19+00:00",
   "beta": [
+    {
+      "seq": 42,
+      "title": "Item rows stay still, version 1.9.8",
+      "summary": "The item rows no longer jump while you type or click: the discount percentage under a line total takes no room. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r42/money-manager-r42.zip",
+      "size": 8807330,
+      "sha256": "711656282a66e8cb47ad327a333d432bf42ffb5c7271b16e7ad6cb98c14f9eb1",
+      "published_at": "2026-11-23T14:37:14+00:00",
+      "release_id": 455548326,
+      "source_filename": "release-1.9.8.zip",
+      "version": "1.9.8",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r42/manifest-r42.json",
+        "sha256": "0c58e5eae8231dd0526f174554358c4e50674a3ea7613b52b7f18febdc058c1a",
+        "size": 131326,
+        "files": 756,
+        "pack_size": 310178
+      }
+    },
     {
       "seq": 41,
       "title": "A clearer gain chart, version 1.9.4",
@@ -535,5 +554,5 @@
       }
     }
   ],
-  "signature": "weB5h/d/ie1AS7nK9kWF4qddg3TVw70elcfChGiUQludkXafRVZ9lYqt3lES0yVaXykMbIQakBNMMxB3u5bwCQ=="
+  "signature": "IM0ZWudzqzuRtqrDvxAIRt7cjEqr4zIY64k3C7tYCXhs6DVFo2nqbqtY0OiTjlaD81Ae8A4ow1JNUk+N52U0Bg=="
 }
