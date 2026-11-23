@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-23T10:41:58+00:00",
+  "signed_at": "2026-11-23T11:22:37+00:00",
   "beta": [
+    {
+      "seq": 41,
+      "title": "A clearer gain chart, version 1.9.4",
+      "summary": "The Gain over time chart has a new layout: the chart on the left, the gain now, the change in the period, the best and the worst day on the right, and your readings sit on the line. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r41/money-manager-r41.zip",
+      "size": 8798724,
+      "sha256": "44344bf473ec311b9d62d1aae88cc7b1d759e1c1d34a33c464ba72605878d4a8",
+      "published_at": "2026-11-23T11:22:20+00:00",
+      "release_id": 455321557,
+      "source_filename": "release-1.9.4.zip",
+      "version": "1.9.4",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r41/manifest-r41.json",
+        "sha256": "1604cc7dad970d2726d6fcc35d9de697b1f55cc5609f9b55347cda4530784e26",
+        "size": 129571,
+        "files": 755,
+        "pack_size": 379225
+      }
+    },
     {
       "seq": 40,
       "title": "Buoni used in part, refunds with a courtesy, version 1.9.1",
@@ -516,5 +535,5 @@
       }
     }
   ],
-  "signature": "sY7lomKXQyzNdJe4vHohc/9wEf2NgTiIZCfZUOhTauEXIyH+MBryHP7sz2klrw9nuqJ4jCmGZ++sMGDDVfdkBg=="
+  "signature": "weB5h/d/ie1AS7nK9kWF4qddg3TVw70elcfChGiUQludkXafRVZ9lYqt3lES0yVaXykMbIQakBNMMxB3u5bwCQ=="
 }
