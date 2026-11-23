@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-23T14:37:19+00:00",
+  "signed_at": "2026-11-23T15:15:41+00:00",
   "beta": [
+    {
+      "seq": 43,
+      "title": "Asked before deleting, history kept, version 1.9.9",
+      "summary": "Deleting a rule, a bill, a salary, a debt or anything else now asks first, and deleting never touches what was already recorded through it. A deleted item's number is no longer given to the next one. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r43/money-manager-r43.zip",
+      "size": 8824226,
+      "sha256": "548fdce1168c7fec72f0af4bc4d9feed9d1d1f2499a0854f60730a03a538fdeb",
+      "published_at": "2026-11-23T15:15:36+00:00",
+      "release_id": 455596634,
+      "source_filename": "release-1.9.9.zip",
+      "version": "1.9.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r43/manifest-r43.json",
+        "sha256": "749745615a367e3d967a2427f22bce93756093201eb8adc8e6d5fbd5a48c23a5",
+        "size": 132765,
+        "files": 757,
+        "pack_size": 317378
+      }
+    },
     {
       "seq": 42,
       "title": "Item rows stay still, version 1.9.8",
@@ -554,5 +573,5 @@
       }
     }
   ],
-  "signature": "IM0ZWudzqzuRtqrDvxAIRt7cjEqr4zIY64k3C7tYCXhs6DVFo2nqbqtY0OiTjlaD81Ae8A4ow1JNUk+N52U0Bg=="
+  "signature": "6mPvT3+L2DKO0zlOHAeDMAKt2//NhvuSYa4RhS1LAUoReEAyrqbGA3iem4/MBPb1ircDWU9utfSdLiYHeCRCDQ=="
 }
