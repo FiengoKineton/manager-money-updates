@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-20T17:49:59+00:00",
+  "signed_at": "2026-11-23T10:41:58+00:00",
   "beta": [
+    {
+      "seq": 40,
+      "title": "Buoni used in part, refunds with a courtesy, version 1.9.1",
+      "summary": "Use only part of a buono on a purchase, log a refund bigger than what you paid (a courtesy credit), mark automatic payments not booked yet from the list, investment readings inside the chart, and an inbox window with your notes in the developer console. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r40/money-manager-r40.zip",
+      "size": 8779850,
+      "sha256": "57bfdbe15b5e1e15d8a0029d7b9ffb41edb61b467702797b6eb03655db0ca9c6",
+      "published_at": "2026-11-23T10:41:53+00:00",
+      "release_id": 455282420,
+      "source_filename": "release-1.9.1.zip",
+      "version": "1.9.1",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r40/manifest-r40.json",
+        "sha256": "6b96464cd198a7b3ba7335697fef2c5198efc506760b36480cc2356abb17dea0",
+        "size": 127645,
+        "files": 755,
+        "pack_size": 427867
+      }
+    },
     {
       "seq": 39,
       "title": "Top-up charge logged by itself, version 1.8.9",
@@ -497,5 +516,5 @@
       }
     }
   ],
-  "signature": "u2dLS+rsTpQvrK7DdAfN9A+tg4iGqQHS8UDQMdnyvYTG2A+T/7tBhVbDGdixVoPcWnmdd9hZ2KI6YvYMWfjOAg=="
+  "signature": "sY7lomKXQyzNdJe4vHohc/9wEf2NgTiIZCfZUOhTauEXIyH+MBryHP7sz2klrw9nuqJ4jCmGZ++sMGDDVfdkBg=="
 }
