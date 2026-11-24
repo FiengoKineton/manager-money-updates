@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-23T19:47:03+00:00",
+  "signed_at": "2026-11-24T13:04:07+00:00",
   "beta": [
+    {
+      "seq": 45,
+      "title": "Category asked once, subscriptions from your rules, version 2.0.4",
+      "summary": "Picking a category no longer opens the plain list too; recurring subscriptions such as Amazon Prime show up on Subscriptions on their own, from the day their rule started, and can be marked as not subscriptions; a chart adds up what they cost and what they saved. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r45/money-manager-r45.zip",
+      "size": 8864345,
+      "sha256": "abc5bccd7bf1a75277d903667b88d7bd05cc85a07b0572501dec9d3fe0393406",
+      "published_at": "2026-11-24T13:04:03+00:00",
+      "release_id": 456774138,
+      "source_filename": "release-2.0.4.zip",
+      "version": "2.0.4",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r45/manifest-r45.json",
+        "sha256": "43d94726a849bc581639a31fecf05975ada128b899f8233aa9c82bb1be542837",
+        "size": 139562,
+        "files": 758,
+        "pack_size": 476530
+      }
+    },
     {
       "seq": 44,
       "title": "Projects you can search, open and fund with a debt, version 2.0.0",
@@ -592,5 +611,5 @@
       }
     }
   ],
-  "signature": "k3O9xt100Re7Lq5zne+0ZK4mVZlKzkyArt2esUe8DYi8mCjb9+NycjgQdN5YFGYIZvro3DX4XPz+kCTt5P9cDQ=="
+  "signature": "EhRCpqUSq8HhVq3mEXrSbcSHGJoMg3/yK6mtAN+x+hBa4tiCPUvBoil+dagjB9HdAZGWnDoyli4E5AC4c4O7Aw=="
 }
