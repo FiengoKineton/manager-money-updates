@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-24T13:04:07+00:00",
+  "signed_at": "2026-11-24T17:50:42+00:00",
   "beta": [
+    {
+      "seq": 46,
+      "title": "Homes, companies and a cleaner investments total, version 2.1.0",
+      "summary": "The Investments page now follows the homes bought with a mortgage (estimated value over time, price per m², what is yours) and the money put into companies. Gold and homes are shown apart and no longer in the investments total. In projects, money back has its own green bar and a loan for a top-up is no longer counted as money back.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r46/money-manager-r46.zip",
+      "size": 8901773,
+      "sha256": "72c772381fc441b6261524a07a1e3d588d33b74b49cb5228adfb33d338d1d30d",
+      "published_at": "2026-11-24T17:50:38+00:00",
+      "release_id": 457129495,
+      "source_filename": "release-2.1.0.zip",
+      "version": "2.1.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r46/manifest-r46.json",
+        "sha256": "7b1d98aa6ac856188f15b3d92b82e34224475d5a16963d647c65b18b1227c668",
+        "size": 144783,
+        "files": 763,
+        "pack_size": 437770
+      }
+    },
     {
       "seq": 45,
       "title": "Category asked once, subscriptions from your rules, version 2.0.4",
@@ -611,5 +630,5 @@
       }
     }
   ],
-  "signature": "EhRCpqUSq8HhVq3mEXrSbcSHGJoMg3/yK6mtAN+x+hBa4tiCPUvBoil+dagjB9HdAZGWnDoyli4E5AC4c4O7Aw=="
+  "signature": "9+VRbsST4XHU+++fOCX9FvInOf6mw27H/ENOVn5WTcT4YcxJIvBijwBWzgEOZ/8YWtPvCkqBKS3UBqcdMavHDw=="
 }
