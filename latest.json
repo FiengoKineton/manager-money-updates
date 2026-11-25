@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-25T11:08:20+00:00",
+  "signed_at": "2026-11-25T11:34:57+00:00",
   "beta": [
+    {
+      "seq": 49,
+      "title": "Phone taps and an easier swipe down, version 2.1.9",
+      "summary": "On the phone, the Pages sheet and the pull-down panel could stay on the page after going back or after an interrupted swipe, unseen, and take the taps meant for the page. They now always go away. The Pages sheet closes with a short swipe down from anywhere on it, and the + button has no glow.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r49/money-manager-r49.zip",
+      "size": 8969962,
+      "sha256": "8f1f5fc81aae7c95c6b572efb57f491f9e16759299540ccaca576ecd2f295771",
+      "published_at": "2026-11-25T11:34:52+00:00",
+      "release_id": 458025850,
+      "source_filename": "release-2.1.9.zip",
+      "version": "2.1.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r49/manifest-r49.json",
+        "sha256": "0f301341d84e1831c60b0da28ac935c6aa57e303df4ea32ae020081849322c55",
+        "size": 155831,
+        "files": 769,
+        "pack_size": 254635
+      }
+    },
     {
       "seq": 48,
       "title": "One 13th payslip, shared bills in net worth, a new Net worth page, version 2.1.8",
@@ -668,5 +687,5 @@
       }
     }
   ],
-  "signature": "LOPndjLIq3P+e1TxCvdy5dg/OnwGYvE8RGIJJDwPp/9qEG+e07m2FXRgSh8nmscvbVcpwbvn8BvNlMFX/0UkDQ=="
+  "signature": "RHWhwpOSTa5vaXwm6JNnZso8kPO3ACKtGD6REyMpnW/6fX6fpHc3UgXDeMqoKGZqoCdJBZZSp5K92pBj2JwxDg=="
 }
