@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-24T17:50:42+00:00",
+  "signed_at": "2026-11-25T10:03:47+00:00",
   "beta": [
+    {
+      "seq": 47,
+      "title": "Payday check on the main account, Recent and Settings side by side, version 2.1.6",
+      "summary": "The payday check now looks only at the main account and finds payday from the Salaries page (also when the category is Stipendio). Recent and Settings share one row in the sidebar and open on hover too.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r47/money-manager-r47.zip",
+      "size": 8946050,
+      "sha256": "b65ad021f1078cd3e4126595a798017bd92cd3e0367ee842d1fddb8a7ee0c584",
+      "published_at": "2026-11-25T10:03:42+00:00",
+      "release_id": 457929347,
+      "source_filename": "release-2.1.6.zip",
+      "version": "2.1.6",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r47/manifest-r47.json",
+        "sha256": "d1be2cc27133915a802aa865a2e7dc68538ecc8d5621dac5efc2744d571980ba",
+        "size": 151389,
+        "files": 766,
+        "pack_size": 607593
+      }
+    },
     {
       "seq": 46,
       "title": "Homes, companies and a cleaner investments total, version 2.1.0",
@@ -630,5 +649,5 @@
       }
     }
   ],
-  "signature": "9+VRbsST4XHU+++fOCX9FvInOf6mw27H/ENOVn5WTcT4YcxJIvBijwBWzgEOZ/8YWtPvCkqBKS3UBqcdMavHDw=="
+  "signature": "H7vTAITL5PuDNxrAp4c7IrPG7abqjpS1fExWYhCbD4+aRZMvfkHTXG0TTYFY/obd/zCYQDx984Fb1NRs5f4BDg=="
 }
