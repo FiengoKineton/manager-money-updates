@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-25T10:03:47+00:00",
+  "signed_at": "2026-11-25T11:08:20+00:00",
   "beta": [
+    {
+      "seq": 48,
+      "title": "One 13th payslip, shared bills in net worth, a new Net worth page, version 2.1.8",
+      "summary": "December no longer lists the 13th payslip twice. Shared bills show on Payables and Receivables and count in Net worth. The payday shortfall is in the Alert center. A redesigned Net worth page, a debt simulator that keeps its size, and Home shortcuts you can drag.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r48/money-manager-r48.zip",
+      "size": 8968268,
+      "sha256": "db5f0a49aab1c040dc55bfe12c50e083a7f9163444bb0eaa8ec8d895be2eb027",
+      "published_at": "2026-11-25T11:08:14+00:00",
+      "release_id": 457997999,
+      "source_filename": "release-2.1.8.zip",
+      "version": "2.1.8",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r48/manifest-r48.json",
+        "sha256": "cf942d34de73946aa5aae0f6e94cd728002b190f0ba44d7c0437b3dba0cdb5b2",
+        "size": 154993,
+        "files": 769,
+        "pack_size": 443865
+      }
+    },
     {
       "seq": 47,
       "title": "Payday check on the main account, Recent and Settings side by side, version 2.1.6",
@@ -649,5 +668,5 @@
       }
     }
   ],
-  "signature": "H7vTAITL5PuDNxrAp4c7IrPG7abqjpS1fExWYhCbD4+aRZMvfkHTXG0TTYFY/obd/zCYQDx984Fb1NRs5f4BDg=="
+  "signature": "LOPndjLIq3P+e1TxCvdy5dg/OnwGYvE8RGIJJDwPp/9qEG+e07m2FXRgSh8nmscvbVcpwbvn8BvNlMFX/0UkDQ=="
 }
