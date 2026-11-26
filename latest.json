@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-25T11:34:57+00:00",
+  "signed_at": "2026-11-26T10:08:45+00:00",
   "beta": [
+    {
+      "seq": 50,
+      "title": "Pages scroll on the phone, prepaid cards in All Conti, version 2.1.10",
+      "summary": "On the phone, the PC pages (Debts, Pending, Bills, Analysis...) did not scroll when the finger started on a box or a table: the page now always scrolls. The All Conti net always counts the money on your prepaid cards.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r50/money-manager-r50.zip",
+      "size": 8971623,
+      "sha256": "935f473b484364caab39d57b143c1978125493e08b7cc70003801ae9f393a93c",
+      "published_at": "2026-11-26T10:08:41+00:00",
+      "release_id": 459236379,
+      "source_filename": "release-2.1.10.zip",
+      "version": "2.1.10",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r50/manifest-r50.json",
+        "sha256": "893b7a24630720f6e84a1c96dc1a92747bcb8831fc73aa3cd9d863ca884a1007",
+        "size": 156698,
+        "files": 769,
+        "pack_size": 261475
+      }
+    },
     {
       "seq": 49,
       "title": "Phone taps and an easier swipe down, version 2.1.9",
@@ -687,5 +706,5 @@
       }
     }
   ],
-  "signature": "RHWhwpOSTa5vaXwm6JNnZso8kPO3ACKtGD6REyMpnW/6fX6fpHc3UgXDeMqoKGZqoCdJBZZSp5K92pBj2JwxDg=="
+  "signature": "Wdf2la9OaZZuz/FdFPdTHQGOsXPppJmccMSx01tYgXbPZ/3i9H5d3kgxufejllVafuevEHuB+GjHKmjZC14mAA=="
 }
