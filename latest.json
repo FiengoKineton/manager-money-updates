@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-26T10:08:45+00:00",
+  "signed_at": "2026-11-27T13:57:25+00:00",
   "beta": [
+    {
+      "seq": 51,
+      "title": "13th / 14th: gross minus taxes, salary history tab, version 2.1.13",
+      "summary": "The 13th and 14th are the gross minus their taxes, never minus the debts, and in the first year both are worked out on the months worked. The salary window has a History tab with the payslips, the 13th / 14th and the advances.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r51/money-manager-r51.zip",
+      "size": 8985614,
+      "sha256": "680817d9a7b30f7e58a62d94730aa7ab7062f58d9dbf74f91da82e6d8ac5aa66",
+      "published_at": "2026-11-27T13:57:21+00:00",
+      "release_id": 460667538,
+      "source_filename": "release-2.1.13.zip",
+      "version": "2.1.13",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r51/manifest-r51.json",
+        "sha256": "20e47504361b8cb9d6fb613f530a4d0a263397d9e6bfbefe20497fa1afe71057",
+        "size": 159118,
+        "files": 770,
+        "pack_size": 401062
+      }
+    },
     {
       "seq": 50,
       "title": "Pages scroll on the phone, prepaid cards in All Conti, version 2.1.10",
@@ -706,5 +725,5 @@
       }
     }
   ],
-  "signature": "Wdf2la9OaZZuz/FdFPdTHQGOsXPppJmccMSx01tYgXbPZ/3i9H5d3kgxufejllVafuevEHuB+GjHKmjZC14mAA=="
+  "signature": "TEg9e/UOMAEpVLKOJwoAVp1dP5bO6eZTTmtQ9bLwmej466tUP2qW5+9J4cwUtPCwyCrLswaR2CF/ffPO3UmKBw=="
 }
