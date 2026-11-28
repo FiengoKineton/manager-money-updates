@@ -380,8 +380,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-27T13:57:25+00:00",
+  "signed_at": "2026-11-28T08:10:42+00:00",
   "beta": [
+    {
+      "seq": 52,
+      "title": "Advances bigger than the payslip, version 2.1.14",
+      "summary": "An advance can now be more than the next payslip: the part over it becomes a debt to the company (added to the one you already have, if any) or comes off the payslips after.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r52/money-manager-r52.zip",
+      "size": 8990283,
+      "sha256": "830415dab911a951cd228bbf0719ac3fcba937fe14b80b97ceecc546a9294404",
+      "published_at": "2026-11-28T08:10:39+00:00",
+      "release_id": 461402030,
+      "source_filename": "release-2.1.14.zip",
+      "version": "2.1.14",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r52/manifest-r52.json",
+        "sha256": "12380447abe59e75342d6b54ab6356569612d82bddde3c1ac6e10efb16974d44",
+        "size": 159892,
+        "files": 770,
+        "pack_size": 232021
+      }
+    },
     {
       "seq": 51,
       "title": "13th / 14th: gross minus taxes, salary history tab, version 2.1.13",
@@ -725,5 +744,5 @@
       }
     }
   ],
-  "signature": "TEg9e/UOMAEpVLKOJwoAVp1dP5bO6eZTTmtQ9bLwmej466tUP2qW5+9J4cwUtPCwyCrLswaR2CF/ffPO3UmKBw=="
+  "signature": "PMRZSATg/VkHsX4AWn1owSHt1RpHSGnzFwpa9t33GAJJweSqmr36eOTnFx3//gHiih1MSfKD10uuEON3HUd+Bg=="
 }
