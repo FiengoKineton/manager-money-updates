@@ -502,7 +502,27 @@
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-28T08:10:54+00:00",
-  "beta": [],
-  "signature": "A97fSKaCENcC9kqE7gfLLlWqP/ljS253Y1IuAzveAvLEepnk19jMymYZ/8o+yqC5wcyuYJEa+vN+GDxMbSIxBw=="
+  "signed_at": "2026-11-28T16:20:55+00:00",
+  "beta": [
+    {
+      "seq": 53,
+      "title": "Bills: link transactions, what comes next; card settlements on the calendar, version 2.1.20",
+      "summary": "A transaction can be linked to a bill's history; Bills to check also lists the next payment of every bill; the calendar shows the credit card settlements of the card ledger, the coming ones and the ones paid.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r53/money-manager-r53.zip",
+      "size": 9017035,
+      "sha256": "a671e1810485553ce439638a9feeb7a0df63454c1b20bb569542968a24d2150e",
+      "published_at": "2026-11-28T16:20:52+00:00",
+      "release_id": 461688561,
+      "source_filename": "release-2.1.20.zip",
+      "version": "2.1.20",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r53/manifest-r53.json",
+        "sha256": "91cbe031de8fc24523d1142d512b35fc73db45d03a9cc182574c30a4dfbd9f6d",
+        "size": 165674,
+        "files": 771,
+        "pack_size": 607788
+      }
+    }
+  ],
+  "signature": "h/y0aR53jgk4y9SIZ0p5Bm2kYswIxHlxOUNqbItJOH/CHlEmoAZD3+QFPstin3F4cbAYvjRRyr341zHDk+mbAg=="
 }
