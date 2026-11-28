@@ -1,6 +1,386 @@
 {
   "releases": [
     {
+      "seq": 52,
+      "title": "Advances bigger than the payslip, version 2.1.14",
+      "summary": "An advance can now be more than the next payslip: the part over it becomes a debt to the company (added to the one you already have, if any) or comes off the payslips after.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r52/money-manager-r52.zip",
+      "size": 8990283,
+      "sha256": "830415dab911a951cd228bbf0719ac3fcba937fe14b80b97ceecc546a9294404",
+      "published_at": "2026-11-28T08:10:39+00:00",
+      "release_id": 461402030,
+      "source_filename": "release-2.1.14.zip",
+      "version": "2.1.14",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r52/manifest-r52.json",
+        "sha256": "12380447abe59e75342d6b54ab6356569612d82bddde3c1ac6e10efb16974d44",
+        "size": 159892,
+        "files": 770,
+        "pack_size": 232021
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 51,
+      "title": "13th / 14th: gross minus taxes, salary history tab, version 2.1.13",
+      "summary": "The 13th and 14th are the gross minus their taxes, never minus the debts, and in the first year both are worked out on the months worked. The salary window has a History tab with the payslips, the 13th / 14th and the advances.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r51/money-manager-r51.zip",
+      "size": 8985614,
+      "sha256": "680817d9a7b30f7e58a62d94730aa7ab7062f58d9dbf74f91da82e6d8ac5aa66",
+      "published_at": "2026-11-27T13:57:21+00:00",
+      "release_id": 460667538,
+      "source_filename": "release-2.1.13.zip",
+      "version": "2.1.13",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r51/manifest-r51.json",
+        "sha256": "20e47504361b8cb9d6fb613f530a4d0a263397d9e6bfbefe20497fa1afe71057",
+        "size": 159118,
+        "files": 770,
+        "pack_size": 401062
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 50,
+      "title": "Pages scroll on the phone, prepaid cards in All Conti, version 2.1.10",
+      "summary": "On the phone, the PC pages (Debts, Pending, Bills, Analysis...) did not scroll when the finger started on a box or a table: the page now always scrolls. The All Conti net always counts the money on your prepaid cards.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r50/money-manager-r50.zip",
+      "size": 8971623,
+      "sha256": "935f473b484364caab39d57b143c1978125493e08b7cc70003801ae9f393a93c",
+      "published_at": "2026-11-26T10:08:41+00:00",
+      "release_id": 459236379,
+      "source_filename": "release-2.1.10.zip",
+      "version": "2.1.10",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r50/manifest-r50.json",
+        "sha256": "893b7a24630720f6e84a1c96dc1a92747bcb8831fc73aa3cd9d863ca884a1007",
+        "size": 156698,
+        "files": 769,
+        "pack_size": 261475
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 49,
+      "title": "Phone taps and an easier swipe down, version 2.1.9",
+      "summary": "On the phone, the Pages sheet and the pull-down panel could stay on the page after going back or after an interrupted swipe, unseen, and take the taps meant for the page. They now always go away. The Pages sheet closes with a short swipe down from anywhere on it, and the + button has no glow.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r49/money-manager-r49.zip",
+      "size": 8969962,
+      "sha256": "8f1f5fc81aae7c95c6b572efb57f491f9e16759299540ccaca576ecd2f295771",
+      "published_at": "2026-11-25T11:34:52+00:00",
+      "release_id": 458025850,
+      "source_filename": "release-2.1.9.zip",
+      "version": "2.1.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r49/manifest-r49.json",
+        "sha256": "0f301341d84e1831c60b0da28ac935c6aa57e303df4ea32ae020081849322c55",
+        "size": 155831,
+        "files": 769,
+        "pack_size": 254635
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 48,
+      "title": "One 13th payslip, shared bills in net worth, a new Net worth page, version 2.1.8",
+      "summary": "December no longer lists the 13th payslip twice. Shared bills show on Payables and Receivables and count in Net worth. The payday shortfall is in the Alert center. A redesigned Net worth page, a debt simulator that keeps its size, and Home shortcuts you can drag.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r48/money-manager-r48.zip",
+      "size": 8968268,
+      "sha256": "db5f0a49aab1c040dc55bfe12c50e083a7f9163444bb0eaa8ec8d895be2eb027",
+      "published_at": "2026-11-25T11:08:14+00:00",
+      "release_id": 457997999,
+      "source_filename": "release-2.1.8.zip",
+      "version": "2.1.8",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r48/manifest-r48.json",
+        "sha256": "cf942d34de73946aa5aae0f6e94cd728002b190f0ba44d7c0437b3dba0cdb5b2",
+        "size": 154993,
+        "files": 769,
+        "pack_size": 443865
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 47,
+      "title": "Payday check on the main account, Recent and Settings side by side, version 2.1.6",
+      "summary": "The payday check now looks only at the main account and finds payday from the Salaries page (also when the category is Stipendio). Recent and Settings share one row in the sidebar and open on hover too.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r47/money-manager-r47.zip",
+      "size": 8946050,
+      "sha256": "b65ad021f1078cd3e4126595a798017bd92cd3e0367ee842d1fddb8a7ee0c584",
+      "published_at": "2026-11-25T10:03:42+00:00",
+      "release_id": 457929347,
+      "source_filename": "release-2.1.6.zip",
+      "version": "2.1.6",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r47/manifest-r47.json",
+        "sha256": "d1be2cc27133915a802aa865a2e7dc68538ecc8d5621dac5efc2744d571980ba",
+        "size": 151389,
+        "files": 766,
+        "pack_size": 607593
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 46,
+      "title": "Homes, companies and a cleaner investments total, version 2.1.0",
+      "summary": "The Investments page now follows the homes bought with a mortgage (estimated value over time, price per m², what is yours) and the money put into companies. Gold and homes are shown apart and no longer in the investments total. In projects, money back has its own green bar and a loan for a top-up is no longer counted as money back.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r46/money-manager-r46.zip",
+      "size": 8901773,
+      "sha256": "72c772381fc441b6261524a07a1e3d588d33b74b49cb5228adfb33d338d1d30d",
+      "published_at": "2026-11-24T17:50:38+00:00",
+      "release_id": 457129495,
+      "source_filename": "release-2.1.0.zip",
+      "version": "2.1.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r46/manifest-r46.json",
+        "sha256": "7b1d98aa6ac856188f15b3d92b82e34224475d5a16963d647c65b18b1227c668",
+        "size": 144783,
+        "files": 763,
+        "pack_size": 437770
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 45,
+      "title": "Category asked once, subscriptions from your rules, version 2.0.4",
+      "summary": "Picking a category no longer opens the plain list too; recurring subscriptions such as Amazon Prime show up on Subscriptions on their own, from the day their rule started, and can be marked as not subscriptions; a chart adds up what they cost and what they saved. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r45/money-manager-r45.zip",
+      "size": 8864345,
+      "sha256": "abc5bccd7bf1a75277d903667b88d7bd05cc85a07b0572501dec9d3fe0393406",
+      "published_at": "2026-11-24T13:04:03+00:00",
+      "release_id": 456774138,
+      "source_filename": "release-2.0.4.zip",
+      "version": "2.0.4",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r45/manifest-r45.json",
+        "sha256": "43d94726a849bc581639a31fecf05975ada128b899f8233aa9c82bb1be542837",
+        "size": 139562,
+        "files": 758,
+        "pack_size": 476530
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 44,
+      "title": "Projects you can search, open and fund with a debt, version 2.0.0",
+      "summary": "In a project the same group is no longer listed twice, each group opens on the transactions and costs that make it, with a note of yours on each, a search box looks through the whole project, and a debt can be linked so that its top-ups count as the project's spending. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r44/money-manager-r44.zip",
+      "size": 8833908,
+      "sha256": "f30346a3c6ccb4d24488556fb83c17306e45a29554e37631bd26fdfbb4461be0",
+      "published_at": "2026-11-23T19:47:00+00:00",
+      "release_id": 455911496,
+      "source_filename": "release-2.0.0.zip",
+      "version": "2.0.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r44/manifest-r44.json",
+        "sha256": "f2f3b6e4bc2374be1db0718730ead6b32401815c0f21e546ca6ecffe8a4bf77b",
+        "size": 134311,
+        "files": 757,
+        "pack_size": 327167
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 43,
+      "title": "Asked before deleting, history kept, version 1.9.9",
+      "summary": "Deleting a rule, a bill, a salary, a debt or anything else now asks first, and deleting never touches what was already recorded through it. A deleted item's number is no longer given to the next one. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r43/money-manager-r43.zip",
+      "size": 8824226,
+      "sha256": "548fdce1168c7fec72f0af4bc4d9feed9d1d1f2499a0854f60730a03a538fdeb",
+      "published_at": "2026-11-23T15:15:36+00:00",
+      "release_id": 455596634,
+      "source_filename": "release-1.9.9.zip",
+      "version": "1.9.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r43/manifest-r43.json",
+        "sha256": "749745615a367e3d967a2427f22bce93756093201eb8adc8e6d5fbd5a48c23a5",
+        "size": 132765,
+        "files": 757,
+        "pack_size": 317378
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 42,
+      "title": "Item rows stay still, version 1.9.8",
+      "summary": "The item rows no longer jump while you type or click: the discount percentage under a line total takes no room. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r42/money-manager-r42.zip",
+      "size": 8807330,
+      "sha256": "711656282a66e8cb47ad327a333d432bf42ffb5c7271b16e7ad6cb98c14f9eb1",
+      "published_at": "2026-11-23T14:37:14+00:00",
+      "release_id": 455548326,
+      "source_filename": "release-1.9.8.zip",
+      "version": "1.9.8",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r42/manifest-r42.json",
+        "sha256": "0c58e5eae8231dd0526f174554358c4e50674a3ea7613b52b7f18febdc058c1a",
+        "size": 131326,
+        "files": 756,
+        "pack_size": 310178
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 41,
+      "title": "A clearer gain chart, version 1.9.4",
+      "summary": "The Gain over time chart has a new layout: the chart on the left, the gain now, the change in the period, the best and the worst day on the right, and your readings sit on the line. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r41/money-manager-r41.zip",
+      "size": 8798724,
+      "sha256": "44344bf473ec311b9d62d1aae88cc7b1d759e1c1d34a33c464ba72605878d4a8",
+      "published_at": "2026-11-23T11:22:20+00:00",
+      "release_id": 455321557,
+      "source_filename": "release-1.9.4.zip",
+      "version": "1.9.4",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r41/manifest-r41.json",
+        "sha256": "1604cc7dad970d2726d6fcc35d9de697b1f55cc5609f9b55347cda4530784e26",
+        "size": 129571,
+        "files": 755,
+        "pack_size": 379225
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 40,
+      "title": "Buoni used in part, refunds with a courtesy, version 1.9.1",
+      "summary": "Use only part of a buono on a purchase, log a refund bigger than what you paid (a courtesy credit), mark automatic payments not booked yet from the list, investment readings inside the chart, and an inbox window with your notes in the developer console. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r40/money-manager-r40.zip",
+      "size": 8779850,
+      "sha256": "57bfdbe15b5e1e15d8a0029d7b9ffb41edb61b467702797b6eb03655db0ca9c6",
+      "published_at": "2026-11-23T10:41:53+00:00",
+      "release_id": 455282420,
+      "source_filename": "release-1.9.1.zip",
+      "version": "1.9.1",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r40/manifest-r40.json",
+        "sha256": "6b96464cd198a7b3ba7335697fef2c5198efc506760b36480cc2356abb17dea0",
+        "size": 127645,
+        "files": 755,
+        "pack_size": 427867
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 39,
+      "title": "Top-up charge logged by itself, version 1.8.9",
+      "summary": "Topping up a prepaid card now logs the bank's charge too (1 euro unless you change it; the last one is kept per card) as a Bank fees expense on the paying account. Also in this package: prepaid payments off the card and everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r39/money-manager-r39.zip",
+      "size": 8767046,
+      "sha256": "4a252ff2388aa65e6cc2a63e4972b2df16508956c3e2741fb7e324a5a1998f94",
+      "published_at": "2026-11-20T17:49:55+00:00",
+      "release_id": 453007907,
+      "source_filename": "release-1.8.9.zip",
+      "version": "1.8.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r39/manifest-r39.json",
+        "sha256": "0fe319c0fa082800235bdc1dac4a07a2eebe7b4cf67e18164eef27c57c3ba38e",
+        "size": 124674,
+        "files": 755,
+        "pack_size": 287080
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 38,
+      "title": "One payment per card statement, version 1.8.7",
+      "summary": "A credit card statement was paid twice when it came due: once by the card settlement and once by an older per-account statement row. Now each statement is paid once, the extra payment already logged is removed, and the payment amount can be edited (a card fee on top). Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r38/money-manager-r38.zip",
+      "size": 8763741,
+      "sha256": "fb5fe931dfe8b70b4075cbfbf35207a99b37f2d035e5046d7b3390286f3cdd60",
+      "published_at": "2026-11-16T11:00:20+00:00",
+      "release_id": 446921373,
+      "source_filename": "release-1.8.7.zip",
+      "version": "1.8.7",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r38/manifest-r38.json",
+        "sha256": "baf4898d1997fce3c072ece677f745a4b8314662fd9b2771b359b572b88e41a3",
+        "size": 123424,
+        "files": 755,
+        "pack_size": 219515
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 37,
+      "title": "Tidier investment readings, version 1.8.6",
+      "summary": "The Readings list on the Investments page is one clean line per reading, with the edit and remove buttons side by side. Also in this package: not-booked rules, part of a debt to pocket, selling the house, fuel cards and everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r37/money-manager-r37.zip",
+      "size": 8759808,
+      "sha256": "e5a54b9d794b82223cac69993c40278b1276df1e8b0328762823feaa9891f73a",
+      "published_at": "2026-11-12T13:01:42+00:00",
+      "release_id": 442954682,
+      "source_filename": "release-1.8.6.zip",
+      "version": "1.8.6",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r37/manifest-r37.json",
+        "sha256": "680eb527c38bcb8c738aeef9974997ec7913325e1b7198e7325ac980120f95fe",
+        "size": 122249,
+        "files": 755,
+        "pack_size": 429541
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 36,
+      "title": "Sell the house: profit or loss, version 1.8.2",
+      "summary": "Each mortgage has a Sell tab: write a price and a date and see the loan still owed then, what you take home, and the profit or loss against everything you put in. Mark it as sold to close the loan. Debts can also be paid from any account. Also in this package: fuel cards and everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r36/money-manager-r36.zip",
+      "size": 8748524,
+      "sha256": "dc0959f0389ee3294e33e5f18023588c62d1c0373091e9b577afe31a8755f37a",
+      "published_at": "2026-11-11T21:02:07+00:00",
+      "release_id": 442186712,
+      "source_filename": "release-1.8.2.zip",
+      "version": "1.8.2",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r36/manifest-r36.json",
+        "sha256": "ef5a938d5c5c1085dc7e36eea9112d8c85ebb8ab83066d2436e38c6a8ee45081",
+        "size": 119157,
+        "files": 754,
+        "pack_size": 322940
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 35,
+      "title": "Fuel cards, version 1.8.0",
+      "summary": "Fuel cards (carta carburante, buoni benzina) now have their own page: a balance in euros topped up by hand, each top-up with an expiry, spent to the cent only on fuel. A card can sit on an account or be only a salary benefit. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r35/money-manager-r35.zip",
+      "size": 8732665,
+      "sha256": "8155fb92dc050c52473af9e4cab0a6de644de55ec6ac7f9bc05f69916904453b",
+      "published_at": "2026-11-11T15:39:40+00:00",
+      "release_id": 441884725,
+      "source_filename": "release-1.8.0.zip",
+      "version": "1.8.0",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r35/manifest-r35.json",
+        "sha256": "e970224eefd6bfd07aa6fd85de5ed8d3e8a13fb803acc9813bffa0dbc04f85b6",
+        "size": 118156,
+        "files": 754,
+        "pack_size": 383953
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
+      "seq": 34,
+      "title": "Refunds to any account or as a buono sconto, version 1.7.9",
+      "summary": "A refund can now come back to any of your accounts, or as a buono sconto to spend later: the amount goes on the shop's voucher (or a new one), with no money moving now. Unspent vouchers count in net worth. Also in this package: everything since 1.5.2.",
+      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r34/money-manager-r34.zip",
+      "size": 8716419,
+      "sha256": "5b5fb9d7de493dc8210d114b2b7d1e59c4d457db874bcbd9ffa2114d1226d8e3",
+      "published_at": "2026-11-11T10:58:24+00:00",
+      "release_id": 441571108,
+      "source_filename": "release-1.7.9.zip",
+      "version": "1.7.9",
+      "manifest": {
+        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r34/manifest-r34.json",
+        "sha256": "79d1cd4122a1fe910935d7fb58f81c2c85ae04ed143ad2ef8cfe711708a808f0",
+        "size": 117190,
+        "files": 752,
+        "pack_size": 267378
+      },
+      "promoted_at": "2026-11-28T08:10:54+00:00"
+    },
+    {
       "seq": 33,
       "title": "Editing a bill keeps today's payment, salary advances shown everywhere, version 1.7.8",
       "summary": "Saving a bill or salary deleted its open payment in Pending without making it again, so a bill due today vanished and Next jumped to the following one. Fixed, and a payment lost this way comes back once. A salary advance now lowers the coming payslip everywhere: Pending, the forecasts, Transactions and Salaries. Also in this package: everything since 1.5.2.",
@@ -118,631 +498,11 @@
         "pack_size": 436692
       },
       "promoted_at": "2026-10-28T19:22:06+00:00"
-    },
-    {
-      "seq": 27,
-      "title": "Salary per year, 13th and 14th payslips of their own, version 1.6.4",
-      "summary": "Type a salary as its RAL and choose 12, 13 or 14 payslips: each payslip is RAL / payslips, and the 13th (December) and 14th (July) are payslips of their own, in a month you can move, with or without the linked debts. Taxes on the Italian estimate add up to the year. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r27/money-manager-r27.zip",
-      "size": 8573903,
-      "sha256": "4cdb773159a62ecddca731784ad09a65627e8d62109302d9d33276049f99609b",
-      "published_at": "2026-10-28T13:31:39+00:00",
-      "release_id": 426707677,
-      "source_filename": "release-1.6.4.zip",
-      "version": "1.6.4",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r27/manifest-r27.json",
-        "sha256": "df159e43b120e14e02f31330b8bc5f975ba07ffab881ebcb0bfae30a00220bb6",
-        "size": 102079,
-        "files": 740,
-        "pack_size": 372948
-      },
-      "promoted_at": "2026-10-28T13:31:57+00:00"
-    },
-    {
-      "seq": 26,
-      "title": "Undo for 30 seconds, simple version for everyone, version 1.6.1",
-      "summary": "Every change to your data can be undone for 30 seconds from a bar at the top. From the next login every account starts on the simple version unless the full one was chosen (Settings › Go to the full app). File pickers match the app; the top-bar net uses your name for All Conti. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r26/money-manager-r26.zip",
-      "size": 8555851,
-      "sha256": "e3e765d0298ce75dc083bc736424b535e990bfb49320aa72011640fac5ef5403",
-      "published_at": "2026-10-26T14:59:11+00:00",
-      "release_id": 424389615,
-      "source_filename": "release-1.6.1.zip",
-      "version": "1.6.1",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r26/manifest-r26.json",
-        "sha256": "c07d9b13969f0542db121ca550f311d115652e63de382894bc40fc1d77cca27f",
-        "size": 98893,
-        "files": 738,
-        "pack_size": 334171
-      },
-      "promoted_at": "2026-10-26T14:59:30+00:00"
-    },
-    {
-      "seq": 25,
-      "title": "Not booked yet for automatic payments, refunds from someone else, version 1.5.9",
-      "summary": "Automatic and linked payments can wait to be booked, and a refund can come from someone other than the shop. Also in this package: changes and files for payables and receivables, the fuller project page and everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r25/money-manager-r25.zip",
-      "size": 8537606,
-      "sha256": "443615a423fa48bf11969e9245afe72c0fe3947bb3b4804386b6b5b27e712c9b",
-      "published_at": "2026-10-26T11:47:15+00:00",
-      "release_id": 424183735,
-      "source_filename": "release-1.5.9.zip",
-      "version": "1.5.9",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r25/manifest-r25.json",
-        "sha256": "bb6c1c2fe92734d32c761ed51760953baadba2c81aecdf29cc11711994deb36d",
-        "size": 97364,
-        "files": 736,
-        "pack_size": 537918
-      },
-      "promoted_at": "2026-10-26T14:59:30+00:00"
-    },
-    {
-      "seq": 24,
-      "title": "Linked transactions, subscription reminders and receipt QR codes, version 1.5.7",
-      "summary": "Link two transactions that belong together. After saving a subscription the app offers to remind you to cancel it. Receipts get a real barcode and a QR with the details. Categories get fitting icons, accounts their bank's colours.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r24/money-manager-r24.zip",
-      "size": 8461313,
-      "sha256": "97be668f5f05e155570d32e7e82f717535e28b85fc63084bfc88f6732ca3ff47",
-      "published_at": "2026-10-25T14:49:48+00:00",
-      "release_id": 423465031,
-      "source_filename": "release-1.5.7.zip",
-      "version": "1.5.7",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r24/manifest-r24.json",
-        "sha256": "7c3ad74e7177aed40562e95e1e5cc38990dbed54e1168c228572bcde856a2bde",
-        "size": 92717,
-        "files": 727,
-        "pack_size": 569509
-      },
-      "promoted_at": "2026-10-26T14:59:30+00:00"
-    },
-    {
-      "seq": 23,
-      "title": "Check and repair app files, version 1.5.2",
-      "summary": "Settings › Update app can now check that every app file is exactly as published and put back any missing or damaged one. Updates no longer flash terminal windows, and the Update page opens at once.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/money-manager-r23.zip",
-      "size": 8335844,
-      "sha256": "53d8fe609898955ef9dcea904589433a35c9a16f0e883cc39b0ff0466c9c411e",
-      "published_at": "2026-10-23T14:57:45+00:00",
-      "release_id": 421973001,
-      "source_filename": "release-1.5.2.zip",
-      "version": "1.5.2",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r23/manifest-r23.json",
-        "sha256": "4a2b89deab6196b42f64a58405fa263d97daa86a3dcbf5737840157193836e45",
-        "size": 89412,
-        "files": 714,
-        "pack_size": 10762467
-      },
-      "promoted_at": "2026-10-24T14:27:59+00:00"
-    },
-    {
-      "seq": 22,
-      "title": "Releases built from the developer’s folder, version 1.4.3",
-      "summary": "Only the developer sees a difference: releases are now built and published straight from the app folder, always complete, and only from changes saved in git.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r22/money-manager-r22.zip",
-      "size": 1622179,
-      "sha256": "d43ef489e520bed3486d3aa4fdd6dee526c80d1a2b8b9b5677d819955a86db01",
-      "published_at": "2026-10-23T13:36:19+00:00",
-      "release_id": 421884385,
-      "source_filename": "delta-111.zip",
-      "promoted_at": "2026-10-24T14:27:59+00:00"
-    },
-    {
-      "seq": 21,
-      "title": "Documentation page, version 1.4.2",
-      "summary": "The sign-in page has a Documentation link: choose English or Italian and the user guide or the technical reference. The documents themselves arrive with a next update.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r21/money-manager-r21.zip",
-      "size": 2703525,
-      "sha256": "68c75b5d5ace58cc812425bc71a21c0a4401a497225416ed50bbb92fa209e0c6",
-      "published_at": "2026-10-22T10:08:16+00:00",
-      "release_id": 420565969,
-      "source_filename": "delta-110.zip",
-      "promoted_at": "2026-10-24T14:27:59+00:00"
-    },
-    {
-      "seq": 20,
-      "title": "Developer console: tidier users page, version 1.4.1",
-      "summary": "Only the developer sees a difference: the invite form is on top, invited people scroll inside their box and revoked people are folded away.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r20/money-manager-r20.zip",
-      "size": 2699376,
-      "sha256": "0834cecea3a3523995b5ef458fbf4c945dc9382fff9fad50562910bef6bc966f",
-      "published_at": "2026-10-22T09:50:56+00:00",
-      "release_id": 420550246,
-      "source_filename": "delta-109.zip",
-      "promoted_at": "2026-10-24T14:27:59+00:00"
-    },
-    {
-      "seq": 19,
-      "title": "Sync between devices (beta), version 1.4.0",
-      "summary": "Use the same account on more than one computer: your data is encrypted with your password before it leaves the computer, saved online after changes and kept in versions you can go back to.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r19/money-manager-r19.zip",
-      "size": 2699024,
-      "sha256": "1d25c279dab9774fe1406872613e36f0bbe05f081076d0187d8ddbabd0c26c3e",
-      "published_at": "2026-10-22T09:45:20+00:00",
-      "release_id": 420545141,
-      "source_filename": "delta-108.zip",
-      "promoted_at": "2026-10-24T14:27:59+00:00"
-    },
-    {
-      "seq": 18,
-      "title": "Undo, sign-in in Italian, beta releases, version 1.3.0",
-      "summary": "Deleting no longer asks “Are you sure?”: you get 10 seconds to Undo. The sign-in pages speak your language. New releases can go to the developer’s devices first.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r18/money-manager-r18.zip",
-      "size": 2659120,
-      "sha256": "35c8f295ba38a57e20e542cadfcbdd43089b784170be5631e28b113bb98f2622",
-      "published_at": "2026-10-22T08:53:22+00:00",
-      "release_id": 420495647,
-      "source_filename": "delta-107.zip"
-    },
-    {
-      "seq": 17,
-      "title": "Background preview with Apply, version 1.1.2",
-      "summary": "Background pictures are previewed and saved only with Apply; a clearer picture chooser; the placeholder pictures are removed.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r17/money-manager-r17.zip",
-      "size": 2594772,
-      "sha256": "f51502c621e36abf31569aafb03e9cda0a1bd9f0d7ba04b29e3004afed2a5f2e",
-      "published_at": "2026-10-21T16:37:50+00:00",
-      "release_id": 419800288,
-      "source_filename": "delta-103.zip"
-    },
-    {
-      "seq": 16,
-      "title": "Developer keys page, version 1.1.1",
-      "summary": "The developer console has a keys tab: GitHub, Cloudflare and Gmail credentials with added and expiry dates, how to renew them, and an update form.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r16/money-manager-r16.zip",
-      "size": 2656563,
-      "sha256": "d416fcfcbca0471093c9db5fd759365c328c086d49440a830c5cdcc13a359da9",
-      "published_at": "2026-10-21T16:29:02+00:00",
-      "release_id": 419791776,
-      "source_filename": "delta-102.zip"
-    },
-    {
-      "seq": 15,
-      "title": "Background pictures, version 1.1.0",
-      "summary": "Pick a background picture with blur and fade, see where Investments prices come from, get new releases offered as soon as the app starts.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r15/money-manager-r15.zip",
-      "size": 2646665,
-      "sha256": "fc425b88b3e4b2f91b015cf3b6ac47a22e4fc8b82e49f9174ab9655251947a54",
-      "published_at": "2026-10-21T16:17:18+00:00",
-      "release_id": 419780112,
-      "source_filename": "delta-101.zip"
-    },
-    {
-      "seq": 14,
-      "title": "tmp",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r14/money-manager-r14.zip",
-      "size": 2576944,
-      "sha256": "667130953fdb992814724bee6939f15e064db554700044db023eccee7bc60527",
-      "published_at": "2026-10-21T16:03:04+00:00",
-      "release_id": 419765560,
-      "source_filename": "delta-100.zip"
-    },
-    {
-      "seq": 13,
-      "title": "tmp",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r13/money-manager-r13.zip",
-      "size": 2567548,
-      "sha256": "66b0a8f83cd3ee22360c9d9c6f099ab18bd4e01a5b8b0c1dfc9dbf895c148d27",
-      "published_at": "2026-10-21T15:50:20+00:00",
-      "release_id": 419752673,
-      "source_filename": "delta-99.zip"
-    },
-    {
-      "seq": 12,
-      "title": "tmp",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r12/money-manager-r12.zip",
-      "size": 2542489,
-      "sha256": "cbf76311082cc1ee781ae909e917ac5e3662ef226adb986479ca30cb37709106",
-      "published_at": "2026-10-21T15:37:26+00:00",
-      "release_id": 419739648,
-      "source_filename": "delta-98.zip"
-    },
-    {
-      "seq": 11,
-      "title": "cloudflare",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r11/money-manager-r11.zip",
-      "size": 2541208,
-      "sha256": "021ecf8a95617b46758f543d87b31134a93d1589f447c40b4d636703f38afcbb",
-      "published_at": "2026-10-21T15:05:38+00:00",
-      "release_id": 419698672,
-      "source_filename": "delta-96.zip"
-    },
-    {
-      "seq": 10,
-      "title": "cloudflare",
-      "summary": "revoking access",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r10/money-manager-r10.zip",
-      "size": 2533661,
-      "sha256": "aca9d0677aee1047c42f99266ab67306e52a6f1db172a74252451fc4ef1641f5",
-      "published_at": "2026-10-21T14:59:38+00:00",
-      "release_id": 419692288,
-      "source_filename": "delta-95.zip"
-    },
-    {
-      "seq": 9,
-      "title": "tmp",
-      "summary": "",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r9/money-manager-r9.zip",
-      "size": 2521490,
-      "sha256": "9d328f06544ec9b2c3cc94169780def6116ea5062123201cfec2daa4cd33db6c",
-      "published_at": "2026-10-21T14:49:26+00:00",
-      "release_id": 419681511,
-      "source_filename": "delta-94.zip"
     }
   ],
   "format": 1,
   "repo": "FiengoKineton/manager-money-updates",
-  "signed_at": "2026-11-28T08:10:42+00:00",
-  "beta": [
-    {
-      "seq": 52,
-      "title": "Advances bigger than the payslip, version 2.1.14",
-      "summary": "An advance can now be more than the next payslip: the part over it becomes a debt to the company (added to the one you already have, if any) or comes off the payslips after.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r52/money-manager-r52.zip",
-      "size": 8990283,
-      "sha256": "830415dab911a951cd228bbf0719ac3fcba937fe14b80b97ceecc546a9294404",
-      "published_at": "2026-11-28T08:10:39+00:00",
-      "release_id": 461402030,
-      "source_filename": "release-2.1.14.zip",
-      "version": "2.1.14",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r52/manifest-r52.json",
-        "sha256": "12380447abe59e75342d6b54ab6356569612d82bddde3c1ac6e10efb16974d44",
-        "size": 159892,
-        "files": 770,
-        "pack_size": 232021
-      }
-    },
-    {
-      "seq": 51,
-      "title": "13th / 14th: gross minus taxes, salary history tab, version 2.1.13",
-      "summary": "The 13th and 14th are the gross minus their taxes, never minus the debts, and in the first year both are worked out on the months worked. The salary window has a History tab with the payslips, the 13th / 14th and the advances.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r51/money-manager-r51.zip",
-      "size": 8985614,
-      "sha256": "680817d9a7b30f7e58a62d94730aa7ab7062f58d9dbf74f91da82e6d8ac5aa66",
-      "published_at": "2026-11-27T13:57:21+00:00",
-      "release_id": 460667538,
-      "source_filename": "release-2.1.13.zip",
-      "version": "2.1.13",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r51/manifest-r51.json",
-        "sha256": "20e47504361b8cb9d6fb613f530a4d0a263397d9e6bfbefe20497fa1afe71057",
-        "size": 159118,
-        "files": 770,
-        "pack_size": 401062
-      }
-    },
-    {
-      "seq": 50,
-      "title": "Pages scroll on the phone, prepaid cards in All Conti, version 2.1.10",
-      "summary": "On the phone, the PC pages (Debts, Pending, Bills, Analysis...) did not scroll when the finger started on a box or a table: the page now always scrolls. The All Conti net always counts the money on your prepaid cards.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r50/money-manager-r50.zip",
-      "size": 8971623,
-      "sha256": "935f473b484364caab39d57b143c1978125493e08b7cc70003801ae9f393a93c",
-      "published_at": "2026-11-26T10:08:41+00:00",
-      "release_id": 459236379,
-      "source_filename": "release-2.1.10.zip",
-      "version": "2.1.10",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r50/manifest-r50.json",
-        "sha256": "893b7a24630720f6e84a1c96dc1a92747bcb8831fc73aa3cd9d863ca884a1007",
-        "size": 156698,
-        "files": 769,
-        "pack_size": 261475
-      }
-    },
-    {
-      "seq": 49,
-      "title": "Phone taps and an easier swipe down, version 2.1.9",
-      "summary": "On the phone, the Pages sheet and the pull-down panel could stay on the page after going back or after an interrupted swipe, unseen, and take the taps meant for the page. They now always go away. The Pages sheet closes with a short swipe down from anywhere on it, and the + button has no glow.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r49/money-manager-r49.zip",
-      "size": 8969962,
-      "sha256": "8f1f5fc81aae7c95c6b572efb57f491f9e16759299540ccaca576ecd2f295771",
-      "published_at": "2026-11-25T11:34:52+00:00",
-      "release_id": 458025850,
-      "source_filename": "release-2.1.9.zip",
-      "version": "2.1.9",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r49/manifest-r49.json",
-        "sha256": "0f301341d84e1831c60b0da28ac935c6aa57e303df4ea32ae020081849322c55",
-        "size": 155831,
-        "files": 769,
-        "pack_size": 254635
-      }
-    },
-    {
-      "seq": 48,
-      "title": "One 13th payslip, shared bills in net worth, a new Net worth page, version 2.1.8",
-      "summary": "December no longer lists the 13th payslip twice. Shared bills show on Payables and Receivables and count in Net worth. The payday shortfall is in the Alert center. A redesigned Net worth page, a debt simulator that keeps its size, and Home shortcuts you can drag.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r48/money-manager-r48.zip",
-      "size": 8968268,
-      "sha256": "db5f0a49aab1c040dc55bfe12c50e083a7f9163444bb0eaa8ec8d895be2eb027",
-      "published_at": "2026-11-25T11:08:14+00:00",
-      "release_id": 457997999,
-      "source_filename": "release-2.1.8.zip",
-      "version": "2.1.8",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r48/manifest-r48.json",
-        "sha256": "cf942d34de73946aa5aae0f6e94cd728002b190f0ba44d7c0437b3dba0cdb5b2",
-        "size": 154993,
-        "files": 769,
-        "pack_size": 443865
-      }
-    },
-    {
-      "seq": 47,
-      "title": "Payday check on the main account, Recent and Settings side by side, version 2.1.6",
-      "summary": "The payday check now looks only at the main account and finds payday from the Salaries page (also when the category is Stipendio). Recent and Settings share one row in the sidebar and open on hover too.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r47/money-manager-r47.zip",
-      "size": 8946050,
-      "sha256": "b65ad021f1078cd3e4126595a798017bd92cd3e0367ee842d1fddb8a7ee0c584",
-      "published_at": "2026-11-25T10:03:42+00:00",
-      "release_id": 457929347,
-      "source_filename": "release-2.1.6.zip",
-      "version": "2.1.6",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r47/manifest-r47.json",
-        "sha256": "d1be2cc27133915a802aa865a2e7dc68538ecc8d5621dac5efc2744d571980ba",
-        "size": 151389,
-        "files": 766,
-        "pack_size": 607593
-      }
-    },
-    {
-      "seq": 46,
-      "title": "Homes, companies and a cleaner investments total, version 2.1.0",
-      "summary": "The Investments page now follows the homes bought with a mortgage (estimated value over time, price per m², what is yours) and the money put into companies. Gold and homes are shown apart and no longer in the investments total. In projects, money back has its own green bar and a loan for a top-up is no longer counted as money back.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r46/money-manager-r46.zip",
-      "size": 8901773,
-      "sha256": "72c772381fc441b6261524a07a1e3d588d33b74b49cb5228adfb33d338d1d30d",
-      "published_at": "2026-11-24T17:50:38+00:00",
-      "release_id": 457129495,
-      "source_filename": "release-2.1.0.zip",
-      "version": "2.1.0",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r46/manifest-r46.json",
-        "sha256": "7b1d98aa6ac856188f15b3d92b82e34224475d5a16963d647c65b18b1227c668",
-        "size": 144783,
-        "files": 763,
-        "pack_size": 437770
-      }
-    },
-    {
-      "seq": 45,
-      "title": "Category asked once, subscriptions from your rules, version 2.0.4",
-      "summary": "Picking a category no longer opens the plain list too; recurring subscriptions such as Amazon Prime show up on Subscriptions on their own, from the day their rule started, and can be marked as not subscriptions; a chart adds up what they cost and what they saved. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r45/money-manager-r45.zip",
-      "size": 8864345,
-      "sha256": "abc5bccd7bf1a75277d903667b88d7bd05cc85a07b0572501dec9d3fe0393406",
-      "published_at": "2026-11-24T13:04:03+00:00",
-      "release_id": 456774138,
-      "source_filename": "release-2.0.4.zip",
-      "version": "2.0.4",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r45/manifest-r45.json",
-        "sha256": "43d94726a849bc581639a31fecf05975ada128b899f8233aa9c82bb1be542837",
-        "size": 139562,
-        "files": 758,
-        "pack_size": 476530
-      }
-    },
-    {
-      "seq": 44,
-      "title": "Projects you can search, open and fund with a debt, version 2.0.0",
-      "summary": "In a project the same group is no longer listed twice, each group opens on the transactions and costs that make it, with a note of yours on each, a search box looks through the whole project, and a debt can be linked so that its top-ups count as the project's spending. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r44/money-manager-r44.zip",
-      "size": 8833908,
-      "sha256": "f30346a3c6ccb4d24488556fb83c17306e45a29554e37631bd26fdfbb4461be0",
-      "published_at": "2026-11-23T19:47:00+00:00",
-      "release_id": 455911496,
-      "source_filename": "release-2.0.0.zip",
-      "version": "2.0.0",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r44/manifest-r44.json",
-        "sha256": "f2f3b6e4bc2374be1db0718730ead6b32401815c0f21e546ca6ecffe8a4bf77b",
-        "size": 134311,
-        "files": 757,
-        "pack_size": 327167
-      }
-    },
-    {
-      "seq": 43,
-      "title": "Asked before deleting, history kept, version 1.9.9",
-      "summary": "Deleting a rule, a bill, a salary, a debt or anything else now asks first, and deleting never touches what was already recorded through it. A deleted item's number is no longer given to the next one. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r43/money-manager-r43.zip",
-      "size": 8824226,
-      "sha256": "548fdce1168c7fec72f0af4bc4d9feed9d1d1f2499a0854f60730a03a538fdeb",
-      "published_at": "2026-11-23T15:15:36+00:00",
-      "release_id": 455596634,
-      "source_filename": "release-1.9.9.zip",
-      "version": "1.9.9",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r43/manifest-r43.json",
-        "sha256": "749745615a367e3d967a2427f22bce93756093201eb8adc8e6d5fbd5a48c23a5",
-        "size": 132765,
-        "files": 757,
-        "pack_size": 317378
-      }
-    },
-    {
-      "seq": 42,
-      "title": "Item rows stay still, version 1.9.8",
-      "summary": "The item rows no longer jump while you type or click: the discount percentage under a line total takes no room. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r42/money-manager-r42.zip",
-      "size": 8807330,
-      "sha256": "711656282a66e8cb47ad327a333d432bf42ffb5c7271b16e7ad6cb98c14f9eb1",
-      "published_at": "2026-11-23T14:37:14+00:00",
-      "release_id": 455548326,
-      "source_filename": "release-1.9.8.zip",
-      "version": "1.9.8",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r42/manifest-r42.json",
-        "sha256": "0c58e5eae8231dd0526f174554358c4e50674a3ea7613b52b7f18febdc058c1a",
-        "size": 131326,
-        "files": 756,
-        "pack_size": 310178
-      }
-    },
-    {
-      "seq": 41,
-      "title": "A clearer gain chart, version 1.9.4",
-      "summary": "The Gain over time chart has a new layout: the chart on the left, the gain now, the change in the period, the best and the worst day on the right, and your readings sit on the line. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r41/money-manager-r41.zip",
-      "size": 8798724,
-      "sha256": "44344bf473ec311b9d62d1aae88cc7b1d759e1c1d34a33c464ba72605878d4a8",
-      "published_at": "2026-11-23T11:22:20+00:00",
-      "release_id": 455321557,
-      "source_filename": "release-1.9.4.zip",
-      "version": "1.9.4",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r41/manifest-r41.json",
-        "sha256": "1604cc7dad970d2726d6fcc35d9de697b1f55cc5609f9b55347cda4530784e26",
-        "size": 129571,
-        "files": 755,
-        "pack_size": 379225
-      }
-    },
-    {
-      "seq": 40,
-      "title": "Buoni used in part, refunds with a courtesy, version 1.9.1",
-      "summary": "Use only part of a buono on a purchase, log a refund bigger than what you paid (a courtesy credit), mark automatic payments not booked yet from the list, investment readings inside the chart, and an inbox window with your notes in the developer console. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r40/money-manager-r40.zip",
-      "size": 8779850,
-      "sha256": "57bfdbe15b5e1e15d8a0029d7b9ffb41edb61b467702797b6eb03655db0ca9c6",
-      "published_at": "2026-11-23T10:41:53+00:00",
-      "release_id": 455282420,
-      "source_filename": "release-1.9.1.zip",
-      "version": "1.9.1",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r40/manifest-r40.json",
-        "sha256": "6b96464cd198a7b3ba7335697fef2c5198efc506760b36480cc2356abb17dea0",
-        "size": 127645,
-        "files": 755,
-        "pack_size": 427867
-      }
-    },
-    {
-      "seq": 39,
-      "title": "Top-up charge logged by itself, version 1.8.9",
-      "summary": "Topping up a prepaid card now logs the bank's charge too (1 euro unless you change it; the last one is kept per card) as a Bank fees expense on the paying account. Also in this package: prepaid payments off the card and everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r39/money-manager-r39.zip",
-      "size": 8767046,
-      "sha256": "4a252ff2388aa65e6cc2a63e4972b2df16508956c3e2741fb7e324a5a1998f94",
-      "published_at": "2026-11-20T17:49:55+00:00",
-      "release_id": 453007907,
-      "source_filename": "release-1.8.9.zip",
-      "version": "1.8.9",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r39/manifest-r39.json",
-        "sha256": "0fe319c0fa082800235bdc1dac4a07a2eebe7b4cf67e18164eef27c57c3ba38e",
-        "size": 124674,
-        "files": 755,
-        "pack_size": 287080
-      }
-    },
-    {
-      "seq": 38,
-      "title": "One payment per card statement, version 1.8.7",
-      "summary": "A credit card statement was paid twice when it came due: once by the card settlement and once by an older per-account statement row. Now each statement is paid once, the extra payment already logged is removed, and the payment amount can be edited (a card fee on top). Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r38/money-manager-r38.zip",
-      "size": 8763741,
-      "sha256": "fb5fe931dfe8b70b4075cbfbf35207a99b37f2d035e5046d7b3390286f3cdd60",
-      "published_at": "2026-11-16T11:00:20+00:00",
-      "release_id": 446921373,
-      "source_filename": "release-1.8.7.zip",
-      "version": "1.8.7",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r38/manifest-r38.json",
-        "sha256": "baf4898d1997fce3c072ece677f745a4b8314662fd9b2771b359b572b88e41a3",
-        "size": 123424,
-        "files": 755,
-        "pack_size": 219515
-      }
-    },
-    {
-      "seq": 37,
-      "title": "Tidier investment readings, version 1.8.6",
-      "summary": "The Readings list on the Investments page is one clean line per reading, with the edit and remove buttons side by side. Also in this package: not-booked rules, part of a debt to pocket, selling the house, fuel cards and everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r37/money-manager-r37.zip",
-      "size": 8759808,
-      "sha256": "e5a54b9d794b82223cac69993c40278b1276df1e8b0328762823feaa9891f73a",
-      "published_at": "2026-11-12T13:01:42+00:00",
-      "release_id": 442954682,
-      "source_filename": "release-1.8.6.zip",
-      "version": "1.8.6",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r37/manifest-r37.json",
-        "sha256": "680eb527c38bcb8c738aeef9974997ec7913325e1b7198e7325ac980120f95fe",
-        "size": 122249,
-        "files": 755,
-        "pack_size": 429541
-      }
-    },
-    {
-      "seq": 36,
-      "title": "Sell the house: profit or loss, version 1.8.2",
-      "summary": "Each mortgage has a Sell tab: write a price and a date and see the loan still owed then, what you take home, and the profit or loss against everything you put in. Mark it as sold to close the loan. Debts can also be paid from any account. Also in this package: fuel cards and everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r36/money-manager-r36.zip",
-      "size": 8748524,
-      "sha256": "dc0959f0389ee3294e33e5f18023588c62d1c0373091e9b577afe31a8755f37a",
-      "published_at": "2026-11-11T21:02:07+00:00",
-      "release_id": 442186712,
-      "source_filename": "release-1.8.2.zip",
-      "version": "1.8.2",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r36/manifest-r36.json",
-        "sha256": "ef5a938d5c5c1085dc7e36eea9112d8c85ebb8ab83066d2436e38c6a8ee45081",
-        "size": 119157,
-        "files": 754,
-        "pack_size": 322940
-      }
-    },
-    {
-      "seq": 35,
-      "title": "Fuel cards, version 1.8.0",
-      "summary": "Fuel cards (carta carburante, buoni benzina) now have their own page: a balance in euros topped up by hand, each top-up with an expiry, spent to the cent only on fuel. A card can sit on an account or be only a salary benefit. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r35/money-manager-r35.zip",
-      "size": 8732665,
-      "sha256": "8155fb92dc050c52473af9e4cab0a6de644de55ec6ac7f9bc05f69916904453b",
-      "published_at": "2026-11-11T15:39:40+00:00",
-      "release_id": 441884725,
-      "source_filename": "release-1.8.0.zip",
-      "version": "1.8.0",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r35/manifest-r35.json",
-        "sha256": "e970224eefd6bfd07aa6fd85de5ed8d3e8a13fb803acc9813bffa0dbc04f85b6",
-        "size": 118156,
-        "files": 754,
-        "pack_size": 383953
-      }
-    },
-    {
-      "seq": 34,
-      "title": "Refunds to any account or as a buono sconto, version 1.7.9",
-      "summary": "A refund can now come back to any of your accounts, or as a buono sconto to spend later: the amount goes on the shop's voucher (or a new one), with no money moving now. Unspent vouchers count in net worth. Also in this package: everything since 1.5.2.",
-      "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r34/money-manager-r34.zip",
-      "size": 8716419,
-      "sha256": "5b5fb9d7de493dc8210d114b2b7d1e59c4d457db874bcbd9ffa2114d1226d8e3",
-      "published_at": "2026-11-11T10:58:24+00:00",
-      "release_id": 441571108,
-      "source_filename": "release-1.7.9.zip",
-      "version": "1.7.9",
-      "manifest": {
-        "url": "https://github.com/FiengoKineton/manager-money-updates/releases/download/r34/manifest-r34.json",
-        "sha256": "79d1cd4122a1fe910935d7fb58f81c2c85ae04ed143ad2ef8cfe711708a808f0",
-        "size": 117190,
-        "files": 752,
-        "pack_size": 267378
-      }
-    }
-  ],
-  "signature": "PMRZSATg/VkHsX4AWn1owSHt1RpHSGnzFwpa9t33GAJJweSqmr36eOTnFx3//gHiih1MSfKD10uuEON3HUd+Bg=="
+  "signed_at": "2026-11-28T08:10:54+00:00",
+  "beta": [],
+  "signature": "A97fSKaCENcC9kqE7gfLLlWqP/ljS253Y1IuAzveAvLEepnk19jMymYZ/8o+yqC5wcyuYJEa+vN+GDxMbSIxBw=="
 }
